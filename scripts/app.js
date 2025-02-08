@@ -27707,9 +27707,9 @@ const DabApp = {
       
       id: "com.decsoft.appbuilder",
       version: "1.0.0",
-      name: "New App 2",
-      shortName: "New App 2",
-      description: "Another DecSoft App Builder app",
+      name: "ReadMaster",
+      shortName: "ReadMaster",
+      description: "Master Reading, Master the World.",
       authorName: "DecSoft App Builder",
       authorEmail: "DecSoft App Builder",
       authorUrl: "https://www.decsoftutils.com/",
