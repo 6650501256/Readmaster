@@ -43,7 +43,7 @@ const dialogscafproce = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -251,7 +251,7 @@ const dialogscafstretegic = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -459,7 +459,7 @@ const dialogscafmeta = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -667,7 +667,7 @@ const dialogconcep1 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -859,7 +859,7 @@ const dialogconcep2 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1044,7 +1044,7 @@ const dialogconcep3 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1229,7 +1229,7 @@ const dialogconcep4 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1414,7 +1414,7 @@ const dialogconcep5 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1615,7 +1615,7 @@ const dialoghandout1 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -1824,7 +1824,7 @@ const dialoghandout2 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2033,7 +2033,7 @@ const dialoghandout3 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2241,7 +2241,7 @@ const dialoghandout4 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2449,7 +2449,7 @@ const dialoghandout5 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2641,7 +2641,7 @@ const dialogtask1 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2674,7 +2674,7 @@ app.hideDialogs();
 
           image1: {
             name: "image1",
-            url: "images//474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2696,7 +2696,7 @@ app.hideDialogs();
 
           image2: {
             name: "image2",
-            url: "images//474812201_1849960579141431_4170616093797993023_n.png",
+            url: "app/images/474812201_1849960579141431_4170616093797993023_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2870,7 +2870,7 @@ const dialogtask2 = {
           app: this.$root,
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -2903,7 +2903,7 @@ app.hideDialogs();
 
           image7: {
             name: "image7",
-            url: "images//474039111_514453627795265_966336220618507518_n.png",
+            url: "app/images/474039111_514453627795265_966336220618507518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -2925,7 +2925,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images//474887776_1814689292702843_1596946969253118841_n.png",
+            url: "app/images/474887776_1814689292702843_1596946969253118841_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3099,7 +3099,7 @@ const dialogtask3 = {
           app: this.$root,
           image7: {
             name: "image7",
-            url: "images//474712668_585246377710311_2206443737340126962_n.png",
+            url: "app/images/474712668_585246377710311_2206443737340126962_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3121,7 +3121,7 @@ const dialogtask3 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3154,7 +3154,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images//474895888_1572263456774681_3188374580747811216_n.png",
+            url: "app/images/474895888_1572263456774681_3188374580747811216_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3328,7 +3328,7 @@ const dialogtask4 = {
           app: this.$root,
           image7: {
             name: "image7",
-            url: "images//474732864_624509826741022_6139322745404491246_n.png",
+            url: "app/images/474732864_624509826741022_6139322745404491246_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3350,7 +3350,7 @@ const dialogtask4 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3383,7 +3383,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images//475029790_1221066599816431_6551616613671259380_n.png",
+            url: "app/images/475029790_1221066599816431_6551616613671259380_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3566,7 +3566,7 @@ const Ansbot11 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3762,7 +3762,7 @@ const Ansbot12 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -3948,7 +3948,7 @@ const dialogtask5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -3970,7 +3970,7 @@ const dialogtask5 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4003,7 +4003,7 @@ app.hideDialogs();
 
           image4: {
             name: "image4",
-            url: "images//474943109_644207011398600_201680220264967437_n.png",
+            url: "app/images/474943109_644207011398600_201680220264967437_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4177,7 +4177,7 @@ const dialog1 = {
           app: this.$root,
           image6: {
             name: "image6",
-            url: "images//474774869_596035186564660_3536454186614773942_n.png",
+            url: "app/images/474774869_596035186564660_3536454186614773942_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -4360,7 +4360,7 @@ const Ansbot21 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4555,7 +4555,7 @@ const Ansbot22 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4750,7 +4750,7 @@ const Ansbot23 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -4945,7 +4945,7 @@ const Ansbot24 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5140,7 +5140,7 @@ const Ansbot31 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5335,7 +5335,7 @@ const Ansbot32 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5529,7 +5529,7 @@ const Ansbot33 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5724,7 +5724,7 @@ const Ansbot34 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -5919,7 +5919,7 @@ const Ansbot41 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6114,7 +6114,7 @@ const Ansbot42 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6309,7 +6309,7 @@ const Ansbot43 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6504,7 +6504,7 @@ const Ansbot44 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6699,7 +6699,7 @@ const Ansbot51 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -6894,7 +6894,7 @@ const Ansbot52 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7081,7 +7081,7 @@ const Ansbot53 = {
           iframe1: {
             name: "iframe1",
             title: " Created with Unregistered DecSoft App Builder",
-            source: "https://skimming-d7615.web.app/",
+            source: "https://skimming-439d3.web.app/",
             classes: "",
             hidden: false,
             event: null,
@@ -7090,7 +7090,7 @@ const Ansbot53 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7286,7 +7286,7 @@ const Ansbot54 = {
 
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7481,7 +7481,7 @@ const dialog2 = {
           },
           imgpush2: {
             name: "imgpush2",
-            image: "images//467482483_2721293638072634_6599786091826506622_n.png",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: -1,
@@ -7510,7 +7510,8 @@ app.hideDialogs();
             mouseenterHandler() {},
             mouseleaveHandler() {},
             contextmenuHandler() {}
-          }
+          },
+
         };
       },
       mounted() {
@@ -7650,6 +7651,7 @@ app.hideDialogs();
 <div id="dialog2" class="app-dialog modal fade" tabindex="-1" role="dialog"><div v-bind:class="['modal-dialog', 'modal-dialog-scrollable', 'modal-dialog-centered', 'modal-' + size, 'modal-' + fullscreen]" role="document"><div class="modal-content"><div v-bind:class="[classes, 'modal-body']"><dab-iframe v-bind="iframe1"></dab-iframe><dab-image-push v-bind="imgpush2"></dab-image-push></div></div></div></div>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
+
 const dialog3 = {
  components: DabComponents,
  created() {
@@ -7662,7 +7664,49 @@ const dialog3 = {
           fullscreen: "",
           classes: "",
           event: null,
-          app: this.$root
+          app: this.$root,
+          iframe1: {
+            name: "iframe1",
+            title: " Created with Unregistered DecSoft App Builder",
+            source: "https://skimming-fd50e.web.app/",
+            classes: "",
+            hidden: false,
+            event: null,
+            loadHandler() {}
+          },
+          imgpush2: {
+            name: "imgpush2",
+            image: "app/images/467482483_2721293638072634_6599786091826506622_n.png",
+            classes: "",
+            title: " Created with Unregistered DecSoft App Builder",
+            tabIndex: -1,
+            kind: "light",
+            hidden: false,
+            disabled: false,
+            event: null,
+            blurHandler() {},
+            focusHandler() {},
+
+            clickHandler(event) {
+              let
+                view = app._getCurrentView(),
+                views = app._getLoadedViews(),
+                frames = app._getLoadedFrames(),
+                dialogs = app._getLoadedDialogs(),
+                self = dialogs["dialog3"].imgpush2;
+                self.event = event;
+
+app.hideDialogs();
+            },
+            dblclickHandler() {},
+            mouseupHandler() {},
+            mousedownHandler() {},
+            mousemoveHandler() {},
+            mouseenterHandler() {},
+            mouseleaveHandler() {},
+            contextmenuHandler() {}
+          },
+
         };
       },
       mounted() {
@@ -7799,7 +7843,168 @@ const dialog3 = {
         }
     },
       template: `<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->
-<div id="dialog3" class="app-dialog modal fade" tabindex="-1" role="dialog"><div v-bind:class="['modal-dialog', 'modal-dialog-scrollable', 'modal-dialog-centered', 'modal-' + size, 'modal-' + fullscreen]" role="document"><div class="modal-content"><div v-bind:class="[classes, 'modal-body']"></div></div></div></div>
+<div id="dialog3" class="app-dialog modal fade" tabindex="-1" role="dialog"><div v-bind:class="['modal-dialog', 'modal-dialog-scrollable', 'modal-dialog-centered', 'modal-' + size, 'modal-' + fullscreen]" role="document"><div class="modal-content"><div v-bind:class="[classes, 'modal-body']"><dab-iframe v-bind="iframe1"></dab-iframe><dab-image-push v-bind="imgpush2"></dab-image-push></div></div></div></div>
+<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
+  };
+const dialog4 = {
+ components: DabComponents,
+ created() {
+
+ },
+      data() {
+        return {
+          name: "dialog4",
+          size: "xl",
+          fullscreen: "",
+          classes: "",
+          event: null,
+          app: this.$root,
+          iframe1: {
+            name: "iframe1",
+            title: " Created with Unregistered DecSoft App Builder",
+            source: "",
+            classes: "",
+            hidden: false,
+            event: null,
+            loadHandler() {}
+          }
+        };
+      },
+      mounted() {
+        let
+          self = this;
+        $("#dialog4").on("show.bs.modal", function () {
+          let
+            view = self,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = null;
+          app.activeDialog = self;
+          app._setViewEvents(self);
+
+        });
+        $("#dialog4").on("hidden.bs.modal", function () {
+          let
+            view = self,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = null;
+          app.activeDialog = app._getActiveDialog();
+
+        });
+      },
+      methods: {
+        show() {
+          $("#" + this.name).modal({backdrop: "static", keyboard: false});
+        },
+        hide() {
+          $("#" + this.name).modal("hide");
+        },
+        clickHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        dblclickHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        mouseupHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        mousedownHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        mousemoveHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        mouseenterHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        mouseleaveHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        contextmenuHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        swipeRightHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        },
+        swipeLeftHandler(event) {
+          let
+            view = this,
+            self = this,
+            views = app._getLoadedViews(),
+            frames = app._getLoadedFrames(),
+            dialogs = app._getLoadedDialogs();
+          view.event = event;
+
+        }
+    },
+      template: `<!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->
+<div id="dialog4" class="app-dialog modal fade" tabindex="-1" role="dialog"><div v-bind:class="['modal-dialog', 'modal-dialog-scrollable', 'modal-dialog-centered', 'modal-' + size, 'modal-' + fullscreen]" role="document"><div class="modal-content"><div v-bind:class="[classes, 'modal-body']"><dab-iframe v-bind="iframe1"></dab-iframe></div></div></div></div>
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
 
@@ -7822,7 +8027,7 @@ const start = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474387906_1607266189924752_6586373827279564599_n.png",
+            url: "app/images/474387906_1607266189924752_6586373827279564599_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7844,7 +8049,7 @@ const start = {
 
           image3: {
             name: "image3",
-            url: "images//467483572_2164457637289891_2646976368746657728_n.png",
+            url: "app/images/467483572_2164457637289891_2646976368746657728_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7876,7 +8081,7 @@ app.showView('home');
           },
           image2: {
             name: "image2",
-            url: "images//474278659_400956869740561_8413685259364857763_n.png",
+            url: "app/images/474278659_400956869740561_8413685259364857763_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -7898,7 +8103,7 @@ app.showView('home');
 
           image4: {
             name: "image4",
-            url: "images//474632865_3775707716075585_5407541317368142080_n.png",
+            url: "app/images/474632865_3775707716075585_5407541317368142080_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8066,7 +8271,7 @@ const home = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474447750_1133504998241458_7319366033986031112_n.jpg",
+            url: "app/images/474447750_1133504998241458_7319366033986031112_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8088,7 +8293,7 @@ const home = {
 
           image4: {
             name: "image4",
-            url: "images//467475460_590872117225131_5242547452897977916_n.png",
+            url: "app/images/467475460_590872117225131_5242547452897977916_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8120,7 +8325,7 @@ app.showView('problem1');
           },
           image9: {
             name: "image9",
-            url: "images//467476849_1768994313836713_4673463898932985853_n.png",
+            url: "app/images/467476849_1768994313836713_4673463898932985853_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8153,7 +8358,7 @@ app.showView('problem2');
 
           image10: {
             name: "image10",
-            url: "images//466832041_1017671803525576_4378390615869316467_n.png",
+            url: "app/images/466832041_1017671803525576_4378390615869316467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8186,7 +8391,7 @@ app.showView('problem3');
 
           image11: {
             name: "image11",
-            url: "images//467136290_899254962362920_2783300144135893031_n.png",
+            url: "app/images/467136290_899254962362920_2783300144135893031_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8219,7 +8424,7 @@ app.showView('problem4');
 
           image12: {
             name: "image12",
-            url: "images//467478146_1138297697964457_8419394508001460423_n.png",
+            url: "app/images/467478146_1138297697964457_8419394508001460423_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8252,7 +8457,7 @@ app.showView('problem5');
 
           image2: {
             name: "image2",
-            url: "images//474854892_1955068261685715_2009290267501924134_n.png",
+            url: "app/images/474854892_1955068261685715_2009290267501924134_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8274,7 +8479,7 @@ app.showView('problem5');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8455,7 +8660,7 @@ const collaboration = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474478439_2073008666800709_5502255948565437205_n.png",
+            url: "app/images/474478439_2073008666800709_5502255948565437205_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8477,7 +8682,7 @@ const collaboration = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8510,7 +8715,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//467482184_1282399589753575_3916635300489738518_n.png",
+            url: "app/images/467482184_1282399589753575_3916635300489738518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8544,7 +8749,7 @@ window.open('https://meet.google.com/bdj-uuef-mbh', '_system');
 
           image4: {
             name: "image4",
-            url: "images//467480829_506895595138027_5570004518269513739_n.png",
+            url: "app/images/467480829_506895595138027_5570004518269513739_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8577,7 +8782,7 @@ window.open('https://line.me/ti/g2/4T3GCLEMqCMGCMPpLVnofI4eoX7qxY9_NmHN4A?utm_so
 
           image5: {
             name: "image5",
-            url: "images//467478450_1159721875496556_6645640600818371703_n.png",
+            url: "app/images/467478450_1159721875496556_6645640600818371703_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8611,7 +8816,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
 
           image6: {
             name: "image6",
-            url: "images//474744611_1127335195610253_2451255003652962932_n.png",
+            url: "app/images/474744611_1127335195610253_2451255003652962932_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8632,7 +8837,7 @@ window.open('https://classroom.google.com/c/NzM0MTk1NzQ3ODg2?cjc=r3q5sha', '_sys
           },
           image7: {
             name: "image7",
-            url: "images//474775887_1646331486092867_6733115595828499236_n.png",
+            url: "app/images/474775887_1646331486092867_6733115595828499236_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8800,7 +9005,7 @@ const coaching1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//467481051_931649309073125_556821626548378056_n.jpg",
+            url: "app/images/467481051_931649309073125_556821626548378056_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -8881,7 +9086,7 @@ const coaching1 = {
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9059,7 +9264,7 @@ const coaching2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//475255349_9527840030573972_3745284200734011761_n.png",
+            url: "app/images/475255349_9527840030573972_3745284200734011761_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9081,7 +9286,7 @@ const coaching2 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9114,7 +9319,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474255573_529825212771293_6366124328733620621_n.png",
+            url: "app/images/474255573_529825212771293_6366124328733620621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9136,7 +9341,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//474320417_2429177594103588_1332739555038677308_n.png",
+            url: "app/images/474320417_2429177594103588_1332739555038677308_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9158,7 +9363,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//474327371_1359827631591452_6482014203021353621_n.png",
+            url: "app/images/474327371_1359827631591452_6482014203021353621_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9180,7 +9385,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images//473776666_3808937202657807_3730168871219213570_n.png",
+            url: "app/images/473776666_3808937202657807_3730168871219213570_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9202,7 +9407,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474442597_953081223597545_200553490788938629_n.png",
+            url: "app/images/474442597_953081223597545_200553490788938629_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9224,7 +9429,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images//474442597_953081223597545_200553490788938629_n.png",
+            url: "app/images/474442597_953081223597545_200553490788938629_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9245,7 +9450,7 @@ app.showSidebar();
           },
           image11: {
             name: "image11",
-            url: "images//474442597_953081223597545_200553490788938629_n.png",
+            url: "app/images/474442597_953081223597545_200553490788938629_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9428,7 +9633,7 @@ const problem1 = {
 
           image4: {
             name: "image4",
-            url: "images//467486206_894125075875015_203228027190204413_n.jpg",
+            url: "app/images/467486206_894125075875015_203228027190204413_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9450,7 +9655,7 @@ const problem1 = {
 
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9483,7 +9688,7 @@ app.showView('task1');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9516,7 +9721,7 @@ app.showSidebar();
 
           image1: {
             name: "image1",
-            url: "images//474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9538,7 +9743,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//474812201_1849960579141431_4170616093797993023_n.png",
+            url: "app/images/474812201_1849960579141431_4170616093797993023_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9733,7 +9938,7 @@ const problem2 = {
 
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9765,7 +9970,7 @@ app.showView('task2');
           },
           image4: {
             name: "image4",
-            url: "images//474887776_1814689292702843_1596946969253118841_n.png",
+            url: "app/images/474887776_1814689292702843_1596946969253118841_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9787,7 +9992,7 @@ app.showView('task2');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -9820,7 +10025,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474039111_514453627795265_966336220618507518_n.png",
+            url: "app/images/474039111_514453627795265_966336220618507518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10000,7 +10205,7 @@ const problem3 = {
           app: this.$root,
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10032,7 +10237,7 @@ app.showView('task3');
           },
           image4: {
             name: "image4",
-            url: "images//474895888_1572263456774681_3188374580747811216_n.png",
+            url: "app/images/474895888_1572263456774681_3188374580747811216_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10070,7 +10275,7 @@ app.showView('task3');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10103,7 +10308,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474712668_585246377710311_2206443737340126962_n.png",
+            url: "app/images/474712668_585246377710311_2206443737340126962_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10299,7 +10504,7 @@ const problem4 = {
 
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10331,7 +10536,7 @@ app.showView('task4');
           },
           image4: {
             name: "image4",
-            url: "images//475029790_1221066599816431_6551616613671259380_n.png",
+            url: "app/images/475029790_1221066599816431_6551616613671259380_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10353,7 +10558,7 @@ app.showView('task4');
 
           image7: {
             name: "image7",
-            url: "images//474732864_624509826741022_6139322745404491246_n.png",
+            url: "app/images/474732864_624509826741022_6139322745404491246_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10375,7 +10580,7 @@ app.showView('task4');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10582,7 +10787,7 @@ const problem5 = {
 
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10614,7 +10819,7 @@ app.showView('task5');
           },
           image4: {
             name: "image4",
-            url: "images//474943109_644207011398600_201680220264967437_n.png",
+            url: "app/images/474943109_644207011398600_201680220264967437_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10636,7 +10841,7 @@ app.showView('task5');
 
           image7: {
             name: "image7",
-            url: "images//474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10658,7 +10863,7 @@ app.showView('task5');
 
           image1: {
             name: "image1",
-            url: "images//474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10680,7 +10885,7 @@ app.showView('task5');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10871,7 +11076,7 @@ const learning1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10893,7 +11098,7 @@ const learning1 = {
 
           image2: {
             name: "image2",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10942,7 +11147,7 @@ app.showDialog('dialoghandout1');
 
           image4: {
             name: "image4",
-            url: "images//467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -10976,7 +11181,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images//472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11010,7 +11215,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image6: {
             name: "image6",
-            url: "images//473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11032,7 +11237,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image7: {
             name: "image7",
-            url: "images//473827247_1263792791515955_2015559447510158482_n.png",
+            url: "app/images/473827247_1263792791515955_2015559447510158482_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11053,7 +11258,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11238,7 +11443,7 @@ const learning2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11260,7 +11465,7 @@ const learning2 = {
 
           image2: {
             name: "image2",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11294,7 +11499,7 @@ app.showDialog('dialoghandout2');
 
           image4: {
             name: "image4",
-            url: "images//467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11328,7 +11533,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images//472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11377,7 +11582,7 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
 
           image7: {
             name: "image7",
-            url: "images//473172848_1311044216688683_5055266776209634144_n.png",
+            url: "app/images/473172848_1311044216688683_5055266776209634144_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11399,7 +11604,7 @@ window.open('https://www.canva.com/design/DAGUFxc2iSg/auBnL6wjwLg5WfsGk7N-vQ/vie
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11432,7 +11637,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11606,7 +11811,7 @@ const learning3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11628,7 +11833,7 @@ const learning3 = {
 
           image2: {
             name: "image2",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11660,7 +11865,7 @@ app.showDialog('dialoghandout3');
           },
           image4: {
             name: "image4",
-            url: "images//467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11693,7 +11898,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
           },
           image5: {
             name: "image5",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11726,7 +11931,7 @@ window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/vie
           },
           image7: {
             name: "image7",
-            url: "images//473776122_1608005160086356_768624525547260415_n.png",
+            url: "app/images/473776122_1608005160086356_768624525547260415_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11748,7 +11953,7 @@ window.open('https://www.canva.com/design/DAGUIvYEvt4/XSXixd5c7YYuAHeWLFgYHg/vie
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11781,7 +11986,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11949,7 +12154,7 @@ const learning4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -11971,7 +12176,7 @@ const learning4 = {
 
           image2: {
             name: "image2",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12020,7 +12225,7 @@ app.showDialog('dialoghandout4');
 
           image4: {
             name: "image4",
-            url: "images//467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12054,7 +12259,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images//472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12087,7 +12292,7 @@ window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/vie
           },
           image7: {
             name: "image7",
-            url: "images//472685736_1116573166446575_7524649931556558634_n.png",
+            url: "app/images/472685736_1116573166446575_7524649931556558634_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12109,7 +12314,7 @@ window.open('https://www.canva.com/design/DAGUF2C2ikM/7Z92FAQEVvlY8N3Hsklw3A/vie
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12142,7 +12347,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12317,7 +12522,7 @@ const learning5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474920997_1123148726019636_350891200216899090_n.jpg",
+            url: "app/images/474920997_1123148726019636_350891200216899090_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12339,7 +12544,7 @@ const learning5 = {
 
           image2: {
             name: "image2",
-            url: "images//467480340_605918535287513_7891851346030078966_n.png",
+            url: "app/images/467480340_605918535287513_7891851346030078966_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12388,7 +12593,7 @@ app.showDialog('dialoghandout5');
 
           image4: {
             name: "image4",
-            url: "images//467481092_608431001598689_2095170602926839404_n.png",
+            url: "app/images/467481092_608431001598689_2095170602926839404_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12422,7 +12627,7 @@ window.open('https://www.canva.com/design/DAGUI_p_vUE/t8S0Q7uSr1BE3pTSBPAPnA/vie
 
           image5: {
             name: "image5",
-            url: "images//472042624_952735286212023_6336323681651150055_n.png",
+            url: "app/images/472042624_952735286212023_6336323681651150055_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12455,7 +12660,7 @@ window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/vie
           },
           image7: {
             name: "image7",
-            url: "images//474376363_2602336979959129_2279308129474329260_n.png",
+            url: "app/images/474376363_2602336979959129_2279308129474329260_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12477,7 +12682,7 @@ window.open('https://www.canva.com/design/DAGamGrYayI/tkHgzTDFCb-fswmW_9Zj_g/vie
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12510,7 +12715,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//473088412_1278581046591481_3243987042010227782_n.png",
+            url: "app/images/473088412_1278581046591481_3243987042010227782_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12685,7 +12890,7 @@ const compre1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474243845_530917522661598_5289005837945942286_n.jpg",
+            url: "app/images/474243845_530917522661598_5289005837945942286_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12706,7 +12911,7 @@ const compre1 = {
           },
           image2: {
             name: "image2",
-            url: "images//467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12739,7 +12944,7 @@ window.open('https://play.blooket.com/play?hwId=677055482bf8fe984820cd61', '_sys
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12772,7 +12977,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12950,7 +13155,7 @@ const compre2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//467473553_1986187851858463_4328728631286200179_n.jpg",
+            url: "app/images/467473553_1986187851858463_4328728631286200179_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -12971,7 +13176,7 @@ const compre2 = {
           },
           image2: {
             name: "image2",
-            url: "images//467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13004,7 +13209,7 @@ window.open('https://play.blooket.com/play?hwId=677546f8040608efa3f0d9c4', '_sys
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13183,7 +13388,7 @@ const compre3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//467488961_1252345839398884_2987796817972196279_n.jpg",
+            url: "app/images/467488961_1252345839398884_2987796817972196279_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13204,7 +13409,7 @@ const compre3 = {
           },
           image2: {
             name: "image2",
-            url: "images//467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13237,7 +13442,7 @@ window.open('https://play.blooket.com/play?hwId=677547e9322992275db5399f', '_sys
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13416,7 +13621,7 @@ const compre4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//467480857_1109698213676950_3324532521828018961_n.jpg",
+            url: "app/images/467480857_1109698213676950_3324532521828018961_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13437,7 +13642,7 @@ const compre4 = {
           },
           image2: {
             name: "image2",
-            url: "images//467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13471,7 +13676,7 @@ window.open('https://play.blooket.com/play?hwId=677548312bf8fe984820cf75', '_sys
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13650,7 +13855,7 @@ const compre5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//467480381_1282204833070206_7160949476805220860_n.jpg",
+            url: "app/images/467480381_1282204833070206_7160949476805220860_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13671,7 +13876,7 @@ const compre5 = {
           },
           image2: {
             name: "image2",
-            url: "images//467476931_899722362363054_8601569305860831973_n.png",
+            url: "app/images/467476931_899722362363054_8601569305860831973_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13705,7 +13910,7 @@ window.open('https://play.blooket.com/play?hwId=6775486b322992275db539a1', '_sys
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13884,7 +14089,7 @@ const scaf1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13906,7 +14111,7 @@ const scaf1 = {
 
           image2: {
             name: "image2",
-            url: "images//467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13939,7 +14144,7 @@ window.open('https://www.canva.com/design/DAGdfosEOOw/5zXfU8m1V62lK7pUfVzo1w/vie
           },
           image4: {
             name: "image4",
-            url: "images//474785199_1818178932269063_1466247874035543963_n.png",
+            url: "app/images/474785199_1818178932269063_1466247874035543963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13961,7 +14166,7 @@ window.open('https://www.canva.com/design/DAGdfosEOOw/5zXfU8m1V62lK7pUfVzo1w/vie
 
           image5: {
             name: "image5",
-            url: "images//474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -13983,7 +14188,7 @@ window.open('https://www.canva.com/design/DAGdfosEOOw/5zXfU8m1V62lK7pUfVzo1w/vie
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14016,7 +14221,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14049,7 +14254,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14082,7 +14287,7 @@ app.showDialog('dialogscafmeta');
 
           image6: {
             name: "image6",
-            url: "images//467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14262,7 +14467,7 @@ const scaf2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14284,7 +14489,7 @@ const scaf2 = {
 
           image2: {
             name: "image2",
-            url: "images//467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14317,7 +14522,7 @@ window.open('https://www.canva.com/design/DAGapO3mHcY/3nmSEb2tgIbX8kDr8fhOzA/vie
           },
           image4: {
             name: "image4",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14350,7 +14555,7 @@ app.showDialog('dialogscafstretegic');
 
           image6: {
             name: "image6",
-            url: "images//467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14384,7 +14589,7 @@ app.showDialog('dialogscafproce');
 
           image5: {
             name: "image5",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14417,7 +14622,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image8: {
             name: "image8",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14450,7 +14655,7 @@ app.showDialog('dialogscafmeta');
 
           image9: {
             name: "image9",
-            url: "images//474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14472,7 +14677,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14505,7 +14710,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//473172848_1311044216688683_5055266776209634144_n.png",
+            url: "app/images/473172848_1311044216688683_5055266776209634144_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14673,7 +14878,7 @@ const scaf3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14694,7 +14899,7 @@ const scaf3 = {
           },
           image2: {
             name: "image2",
-            url: "images//467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14728,7 +14933,7 @@ window.open('https://www.canva.com/design/DAGapLbUQJY/ep_T4Iaiquwq3LGMvBM_BA/vie
 
           image4: {
             name: "image4",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14762,7 +14967,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14795,7 +15000,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images//467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14829,7 +15034,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14862,7 +15067,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14895,7 +15100,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14928,7 +15133,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images//474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -14950,7 +15155,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images//471807756_399688043202381_8104094352423751012_n.png",
+            url: "app/images/471807756_399688043202381_8104094352423751012_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15118,7 +15323,7 @@ const scaf4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15139,7 +15344,7 @@ const scaf4 = {
           },
           image2: {
             name: "image2",
-            url: "images//467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15173,7 +15378,7 @@ window.open('https://www.canva.com/design/DAGapH3MbI0/N-sgqV19ryV2WR6xnzy_CA/vie
 
           image4: {
             name: "image4",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15207,7 +15412,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15240,7 +15445,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images//467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15274,7 +15479,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15307,7 +15512,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15340,7 +15545,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15373,7 +15578,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images//474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15395,7 +15600,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images//472690950_973192257479100_2061466295995459274_n.png",
+            url: "app/images/472690950_973192257479100_2061466295995459274_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15563,7 +15768,7 @@ const scaf5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//473137682_1011300917479516_3134192213312663391_n.jpg",
+            url: "app/images/473137682_1011300917479516_3134192213312663391_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15584,7 +15789,7 @@ const scaf5 = {
           },
           image2: {
             name: "image2",
-            url: "images//467481132_1281456246520734_5536965352494544378_n.png",
+            url: "app/images/467481132_1281456246520734_5536965352494544378_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15618,7 +15823,7 @@ window.open('https://www.canva.com/design/DAGapJuUYO0/8WwV15-7cRIGOOBR4B9rbw/vie
 
           image4: {
             name: "image4",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15652,7 +15857,7 @@ window.open('https://www.canva.com/design/DAGUaotGBRg/dtEvTg9JuXa-sjsQiuVISQ/vie
 
           image5: {
             name: "image5",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15685,7 +15890,7 @@ window.open('https://www.canva.com/design/DAGUa6nnlnM/9qB3fC4hiRINZkYd9Lp2KA/vie
 
           image6: {
             name: "image6",
-            url: "images//467471249_2395343744134083_5413752619905073150_n.png",
+            url: "app/images/467471249_2395343744134083_5413752619905073150_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15719,7 +15924,7 @@ app.showDialog('dialogscafproce');
 
           image7: {
             name: "image7",
-            url: "images//467476915_1505878000102632_934259578008098371_n.png",
+            url: "app/images/467476915_1505878000102632_934259578008098371_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15752,7 +15957,7 @@ app.showDialog('dialogscafstretegic');
 
           image8: {
             name: "image8",
-            url: "images//467479490_1966301110441932_1868879706807335602_n.png",
+            url: "app/images/467479490_1966301110441932_1868879706807335602_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15785,7 +15990,7 @@ app.showDialog('dialogscafmeta');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15818,7 +16023,7 @@ app.showSidebar();
 
           image9: {
             name: "image9",
-            url: "images//474467620_1138033790825413_201835830058219640_n.png",
+            url: "app/images/474467620_1138033790825413_201835830058219640_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -15840,7 +16045,7 @@ app.showSidebar();
 
           image10: {
             name: "image10",
-            url: "images//474493049_8471789222922878_1166537318105233994_n.png",
+            url: "app/images/474493049_8471789222922878_1166537318105233994_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16008,7 +16213,7 @@ const task1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16030,7 +16235,7 @@ const task1 = {
 
           submit1: {
             name: "submit1",
-            url: "images//472455594_955757506514521_8963750481230665637_n.png",
+            url: "app/images/472455594_955757506514521_8963750481230665637_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16103,7 +16308,7 @@ document.getElementById("submit1").addEventListener("click", function() {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16136,7 +16341,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16158,7 +16363,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16285,7 +16490,7 @@ app.showDialog('dialogtask1');
 
           image9: {
             name: "image9",
-            url: "images//476017503_653788030546030_7191723399619370568_n.png",
+            url: "app/images/476017503_653788030546030_7191723399619370568_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16307,7 +16512,7 @@ app.showDialog('dialogtask1');
 
           image10: {
             name: "image10",
-            url: "images//474099679_2846010065573560_1931499821261817933_n.png",
+            url: "app/images/474099679_2846010065573560_1931499821261817933_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16475,7 +16680,7 @@ const task2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16497,7 +16702,7 @@ const task2 = {
 
           submit2: {
             name: "submit2",
-            url: "images//472455594_955757506514521_8963750481230665637_n.png",
+            url: "app/images/472455594_955757506514521_8963750481230665637_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16573,7 +16778,7 @@ document.getElementById("submit2").addEventListener("click", function() {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16606,7 +16811,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474039111_514453627795265_966336220618507518_n.png",
+            url: "app/images/474039111_514453627795265_966336220618507518_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16628,7 +16833,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//476008203_983688440602070_6185888541320784991_n.png",
+            url: "app/images/476008203_983688440602070_6185888541320784991_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16681,7 +16886,7 @@ app.showSidebar();
           },
           image5: {
             name: "image5",
-            url: "images//472889650_603350625727682_578596253653222589_n.png",
+            url: "app/images/472889650_603350625727682_578596253653222589_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16734,7 +16939,7 @@ app.showSidebar();
           },
           image2: {
             name: "image2",
-            url: "images//472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16945,7 +17150,7 @@ const task3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16967,7 +17172,7 @@ const task3 = {
 
           submit3: {
             name: "submit3",
-            url: "images//472455594_955757506514521_8963750481230665637_n.png",
+            url: "app/images/472455594_955757506514521_8963750481230665637_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17043,7 +17248,7 @@ document.getElementById("submit3").addEventListener("click", function() {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17076,7 +17281,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474712668_585246377710311_2206443737340126962_n.png",
+            url: "app/images/474712668_585246377710311_2206443737340126962_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17098,7 +17303,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//474864414_491112430386597_2640080526061081579_n.png",
+            url: "app/images/474864414_491112430386597_2640080526061081579_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17120,7 +17325,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images//474887776_653405150446011_1521954074257990456_n.png",
+            url: "app/images/474887776_653405150446011_1521954074257990456_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17204,7 +17409,7 @@ app.showSidebar();
           },
           image2: {
             name: "image2",
-            url: "images//472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17415,7 +17620,7 @@ const task4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17437,7 +17642,7 @@ const task4 = {
 
           submit4: {
             name: "submit4",
-            url: "images//472455594_955757506514521_8963750481230665637_n.png",
+            url: "app/images/472455594_955757506514521_8963750481230665637_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17513,7 +17718,7 @@ document.getElementById("submit4").addEventListener("click", function() {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17546,7 +17751,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474732864_624509826741022_6139322745404491246_n.png",
+            url: "app/images/474732864_624509826741022_6139322745404491246_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17568,7 +17773,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images//475983688_982085343248416_3440545791117027138_n.png",
+            url: "app/images/475983688_982085343248416_3440545791117027138_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17590,7 +17795,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474715690_501625209230020_477066588806828149_n.png",
+            url: "app/images/474715690_501625209230020_477066588806828149_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17674,7 +17879,7 @@ app.showSidebar();
           },
           image2: {
             name: "image2",
-            url: "images//472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17885,7 +18090,7 @@ const task5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17907,7 +18112,7 @@ const task5 = {
 
           submit5: {
             name: "submit5",
-            url: "images//472455594_955757506514521_8963750481230665637_n.png",
+            url: "app/images/472455594_955757506514521_8963750481230665637_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -17983,7 +18188,7 @@ document.getElementById("submit5").addEventListener("click", function() {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18016,7 +18221,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//474738492_965941294979918_8326998411994216454_n.png",
+            url: "app/images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18038,7 +18243,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474433886_3927201170941817_832661241817501118_n.png",
+            url: "app/images/474433886_3927201170941817_832661241817501118_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18060,7 +18265,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474885549_877074871047301_7923493750898938653_n.png",
+            url: "app/images/474885549_877074871047301_7923493750898938653_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18146,7 +18351,7 @@ app.showSidebar();
 
           image8: {
             name: "image8",
-            url: "images//472581274_1749867265794275_161041647546699293_n.png",
+            url: "app/images/472581274_1749867265794275_161041647546699293_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18357,7 +18562,7 @@ const taskbot11 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18379,7 +18584,7 @@ const taskbot11 = {
 
           image4: {
             name: "image4",
-            url: "images//473592559_601148519550062_889866932362339318_n.png",
+            url: "app/images/473592559_601148519550062_889866932362339318_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18401,7 +18606,7 @@ const taskbot11 = {
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18434,7 +18639,7 @@ app.showView('taskbot12');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18467,7 +18672,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18500,7 +18705,7 @@ app.showDialog('Ansbot11');
 
           image7: {
             name: "image7",
-            url: "images//474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18668,7 +18873,7 @@ const taskbot12 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18690,7 +18895,7 @@ const taskbot12 = {
 
           image4: {
             name: "image4",
-            url: "images//474464072_1511321306202188_1452082286517060408_n.png",
+            url: "app/images/474464072_1511321306202188_1452082286517060408_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18712,7 +18917,7 @@ const taskbot12 = {
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18745,7 +18950,7 @@ app.showView('home');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18778,7 +18983,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18811,7 +19016,7 @@ app.showDialog('Ansbot12');
 
           image7: {
             name: "image7",
-            url: "images//474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18979,7 +19184,7 @@ const taskbot21 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19001,7 +19206,7 @@ const taskbot21 = {
 
           image4: {
             name: "image4",
-            url: "images//475331969_1146353467152886_2448720116126123226_n.png",
+            url: "app/images/475331969_1146353467152886_2448720116126123226_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19022,7 +19227,7 @@ const taskbot21 = {
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19055,7 +19260,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19088,7 +19293,7 @@ app.showView('taskbot23');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19110,7 +19315,7 @@ app.showView('taskbot23');
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19289,7 +19494,7 @@ const taskbot22 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19311,7 +19516,7 @@ const taskbot22 = {
 
           image4: {
             name: "image4",
-            url: "images//474090299_964147402290073_311475185500929914_n.png",
+            url: "app/images/474090299_964147402290073_311475185500929914_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19333,7 +19538,7 @@ const taskbot22 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19366,7 +19571,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19399,7 +19604,7 @@ app.showDialog('Ansbot22');
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19432,7 +19637,7 @@ app.showView('taskbot23');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19600,7 +19805,7 @@ const taskbot23 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19622,7 +19827,7 @@ const taskbot23 = {
 
           image4: {
             name: "image4",
-            url: "images//476153785_543158948044163_780812735062597625_n.png",
+            url: "app/images/476153785_543158948044163_780812735062597625_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19643,7 +19848,7 @@ const taskbot23 = {
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19676,7 +19881,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19709,7 +19914,7 @@ app.showDialog('Ansbot22');
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19742,7 +19947,7 @@ app.showView('taskbot24');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19910,7 +20115,7 @@ const taskbot24 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19932,7 +20137,7 @@ const taskbot24 = {
 
           image4: {
             name: "image4",
-            url: "images//476015734_1150197120027996_877754063618886068_n.png",
+            url: "app/images/476015734_1150197120027996_877754063618886068_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19954,7 +20159,7 @@ const taskbot24 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -19987,7 +20192,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20020,7 +20225,7 @@ app.showView('home');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20042,7 +20247,7 @@ app.showView('home');
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20220,7 +20425,7 @@ const taskQ1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20252,7 +20457,7 @@ const taskQ1 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20285,7 +20490,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20318,7 +20523,7 @@ app.showView('taskbot11');
 
           image7: {
             name: "image7",
-            url: "images//474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20485,7 +20690,7 @@ const taskQ2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20517,7 +20722,7 @@ const taskQ2 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20550,7 +20755,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20583,7 +20788,7 @@ app.showView('taskbot21');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20750,7 +20955,7 @@ const taskQ3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20782,7 +20987,7 @@ const taskQ3 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20815,7 +21020,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -20848,7 +21053,7 @@ app.showView('taskbot31');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21015,7 +21220,7 @@ const taskQ4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21047,7 +21252,7 @@ const taskQ4 = {
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21068,7 +21273,7 @@ const taskQ4 = {
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21101,7 +21306,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21280,7 +21485,7 @@ const taskQ5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21302,7 +21507,7 @@ const taskQ5 = {
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21345,7 +21550,7 @@ app.showView('taskbot51');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21378,7 +21583,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21545,7 +21750,7 @@ const taskbot31 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21567,7 +21772,7 @@ const taskbot31 = {
 
           image4: {
             name: "image4",
-            url: "images//474085037_1783939459029588_2028450333057637848_n.png",
+            url: "app/images/474085037_1783939459029588_2028450333057637848_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21589,7 +21794,7 @@ const taskbot31 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21622,7 +21827,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21655,7 +21860,7 @@ app.showView('taskbot32');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21677,7 +21882,7 @@ app.showView('taskbot32');
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21855,7 +22060,7 @@ const taskbot32 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21877,7 +22082,7 @@ const taskbot32 = {
 
           image4: {
             name: "image4",
-            url: "images//474328383_2416384708692897_8113683139594100662_n.png",
+            url: "app/images/474328383_2416384708692897_8113683139594100662_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21899,7 +22104,7 @@ const taskbot32 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21932,7 +22137,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21964,7 +22169,7 @@ app.showDialog('Ansbot32');
           },
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -21997,7 +22202,7 @@ app.showView('taskbot33');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22165,7 +22370,7 @@ const taskbot33 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22187,7 +22392,7 @@ const taskbot33 = {
 
           image4: {
             name: "image4",
-            url: "images//474032930_896726652535793_5109335655934413690_n.png",
+            url: "app/images/474032930_896726652535793_5109335655934413690_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22209,7 +22414,7 @@ const taskbot33 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22242,7 +22447,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22274,7 +22479,7 @@ app.showDialog('Ansbot33');
           },
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22307,7 +22512,7 @@ app.showView('taskbot34');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22475,7 +22680,7 @@ const taskbot34 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22497,7 +22702,7 @@ const taskbot34 = {
 
           image4: {
             name: "image4",
-            url: "images//474066611_1356626942436049_6249140777570012287_n.png",
+            url: "app/images/474066611_1356626942436049_6249140777570012287_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22519,7 +22724,7 @@ const taskbot34 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22552,7 +22757,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22584,7 +22789,7 @@ app.showDialog('Ansbot34');
           },
           image2: {
             name: "image2",
-            url: "images//472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22617,7 +22822,7 @@ app.showView('home');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22785,7 +22990,7 @@ const taskbot41 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22807,7 +23012,7 @@ const taskbot41 = {
 
           image4: {
             name: "image4",
-            url: "images//474522066_1298422438060854_1943706326278233682_n.png",
+            url: "app/images/474522066_1298422438060854_1943706326278233682_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22829,7 +23034,7 @@ const taskbot41 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22862,7 +23067,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22894,7 +23099,7 @@ app.showDialog('Ansbot41');
           },
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -22927,7 +23132,7 @@ app.showView('taskbot42');
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23095,7 +23300,7 @@ const taskbot42 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23117,7 +23322,7 @@ const taskbot42 = {
 
           image4: {
             name: "image4",
-            url: "images//473830157_9040264419400240_7257596282803200382_n.png",
+            url: "app/images/473830157_9040264419400240_7257596282803200382_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23139,7 +23344,7 @@ const taskbot42 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23172,7 +23377,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23204,7 +23409,7 @@ app.showDialog('Ansbot42');
           },
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23237,7 +23442,7 @@ app.showView('taskbot43');
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23405,7 +23610,7 @@ const taskbot43 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23427,7 +23632,7 @@ const taskbot43 = {
 
           image4: {
             name: "image4",
-            url: "images//474737497_2276881642708071_2699237729502973918_n.png",
+            url: "app/images/474737497_2276881642708071_2699237729502973918_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23449,7 +23654,7 @@ const taskbot43 = {
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23481,7 +23686,7 @@ app.showDialog('Ansbot43');
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23514,7 +23719,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23547,7 +23752,7 @@ app.showView('taskbot44');
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23715,7 +23920,7 @@ const taskbot44 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23737,7 +23942,7 @@ const taskbot44 = {
 
           image4: {
             name: "image4",
-            url: "images//474737322_907575204862558_6996927867184385172_n.png",
+            url: "app/images/474737322_907575204862558_6996927867184385172_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23759,7 +23964,7 @@ const taskbot44 = {
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23791,7 +23996,7 @@ app.showDialog('Ansbot44');
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23824,7 +24029,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -23857,7 +24062,7 @@ app.showView('home');
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24025,7 +24230,7 @@ const taskbot51 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24047,7 +24252,7 @@ const taskbot51 = {
 
           image4: {
             name: "image4",
-            url: "images//474715690_649968554131533_6929678023121937981_n.png",
+            url: "app/images/474715690_649968554131533_6929678023121937981_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24069,7 +24274,7 @@ const taskbot51 = {
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24101,7 +24306,7 @@ app.showDialog('Ansbot51');
           },
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24134,7 +24339,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24167,7 +24372,7 @@ app.showView('taskbot52');
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24335,7 +24540,7 @@ const taskbot52 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24357,7 +24562,7 @@ const taskbot52 = {
 
           image4: {
             name: "image4",
-            url: "images//474124513_1722647034967085_6998881086417537801_n.png",
+            url: "app/images/474124513_1722647034967085_6998881086417537801_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24379,7 +24584,7 @@ const taskbot52 = {
 
           image6: {
             name: "image6",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24412,7 +24617,7 @@ app.showDialog('Ansbot52');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24445,7 +24650,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24467,7 +24672,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24645,7 +24850,7 @@ const Login = {
           app: this.$root,
           image8: {
             name: "image8",
-            url: "images//475002179_1124685546027972_9006576970283868475_n.png",
+            url: "app/images/475002179_1124685546027972_9006576970283868475_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24667,7 +24872,7 @@ const Login = {
 
           image2: {
             name: "image2",
-            url: "images//474278659_400956869740561_8413685259364857763_n.png",
+            url: "app/images/474278659_400956869740561_8413685259364857763_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24785,7 +24990,7 @@ const Login = {
 
           image6: {
             name: "image6",
-            url: "images//474942000_1150012416815849_4340360600018009714_n.png",
+            url: "app/images/474942000_1150012416815849_4340360600018009714_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24807,7 +25012,7 @@ const Login = {
 
           imgpush1: {
             name: "imgpush1",
-            image: "images//474942000_1150012416815849_4340360600018009714_n.png",
+            image: "app/images/474942000_1150012416815849_4340360600018009714_n.png",
             classes: "",
             title: " Created with Unregistered DecSoft App Builder",
             tabIndex: 0,
@@ -24975,7 +25180,7 @@ const mission1 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -24997,7 +25202,7 @@ const mission1 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25030,7 +25235,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25063,7 +25268,7 @@ app.showView('taskbot11');
 
           image7: {
             name: "image7",
-            url: "images//474255573_947409220433826_8860483316998907417_n.png",
+            url: "app/images/474255573_947409220433826_8860483316998907417_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25085,7 +25290,7 @@ app.showView('taskbot11');
 
           image5: {
             name: "image5",
-            url: "images//474726398_1522906558401151_6483454055501877121_n.png",
+            url: "app/images/474726398_1522906558401151_6483454055501877121_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25107,7 +25312,7 @@ app.showView('taskbot11');
 
           image6: {
             name: "image6",
-            url: "images//474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25129,7 +25334,7 @@ app.showView('taskbot11');
 
           image8: {
             name: "image8",
-            url: "images//475149679_512341351395364_2984589152132021240_n.png",
+            url: "app/images/475149679_512341351395364_2984589152132021240_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25297,7 +25502,7 @@ const mission2 = {
           app: this.$root,
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25330,7 +25535,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25363,7 +25568,7 @@ app.showView('taskbot21');
 
           image7: {
             name: "image7",
-            url: "images//473661075_3958685924412434_4564798290954391814_n.png",
+            url: "app/images/473661075_3958685924412434_4564798290954391814_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25385,7 +25590,7 @@ app.showView('taskbot21');
 
           image1: {
             name: "image1",
-            url: "images//474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25407,7 +25612,7 @@ app.showView('taskbot21');
 
           image6: {
             name: "image6",
-            url: "images//474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25429,7 +25634,7 @@ app.showView('taskbot21');
 
           image5: {
             name: "image5",
-            url: "images//472792845_1651199558803154_5544107499508499760_n.png",
+            url: "app/images/472792845_1651199558803154_5544107499508499760_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25451,7 +25656,7 @@ app.showView('taskbot21');
 
           image8: {
             name: "image8",
-            url: "images//475483745_1140787250374630_1271613628675286885_n.png",
+            url: "app/images/475483745_1140787250374630_1271613628675286885_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25618,7 +25823,7 @@ const mission3 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25640,7 +25845,7 @@ const mission3 = {
 
           image6: {
             name: "image6",
-            url: "images//474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25662,7 +25867,7 @@ const mission3 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25695,7 +25900,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25728,7 +25933,7 @@ app.showView('taskbot31');
 
           image5: {
             name: "image5",
-            url: "images//474809923_932868132326630_5357464489232738199_n.png",
+            url: "app/images/474809923_932868132326630_5357464489232738199_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25750,7 +25955,7 @@ app.showView('taskbot31');
 
           image2: {
             name: "image2",
-            url: "images//474384506_998803928821789_5823328553500811716_n.png",
+            url: "app/images/474384506_998803928821789_5823328553500811716_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25772,7 +25977,7 @@ app.showView('taskbot31');
 
           image7: {
             name: "image7",
-            url: "images//474755706_980057690124912_2872815569924240713_n.png",
+            url: "app/images/474755706_980057690124912_2872815569924240713_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25939,7 +26144,7 @@ const mission4 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25961,7 +26166,7 @@ const mission4 = {
 
           image6: {
             name: "image6",
-            url: "images//474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -25983,7 +26188,7 @@ const mission4 = {
 
           image5: {
             name: "image5",
-            url: "images//474378130_1009876854510955_7959914790589032785_n.png",
+            url: "app/images/474378130_1009876854510955_7959914790589032785_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26005,7 +26210,7 @@ const mission4 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26038,7 +26243,7 @@ app.showSidebar();
 
           image4: {
             name: "image4",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26071,7 +26276,7 @@ app.showView('taskbot41');
 
           image2: {
             name: "image2",
-            url: "images//473084695_589056864097122_5405616986960443947_n.png",
+            url: "app/images/473084695_589056864097122_5405616986960443947_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26093,7 +26298,7 @@ app.showView('taskbot41');
 
           image7: {
             name: "image7",
-            url: "images//472819964_1365975404767585_5553587590848534477_n.png",
+            url: "app/images/472819964_1365975404767585_5553587590848534477_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26260,7 +26465,7 @@ const mission5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474738444_1137533224677980_671996557511645762_n.png",
+            url: "app/images/474738444_1137533224677980_671996557511645762_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26282,7 +26487,7 @@ const mission5 = {
 
           image6: {
             name: "image6",
-            url: "images//474614395_613929104698566_1374104069250773685_n.png",
+            url: "app/images/474614395_613929104698566_1374104069250773685_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26304,7 +26509,7 @@ const mission5 = {
 
           image3: {
             name: "image3",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26337,7 +26542,7 @@ app.showView('taskbot51');
 
           image4: {
             name: "image4",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26370,7 +26575,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26392,7 +26597,7 @@ app.showSidebar();
 
           image5: {
             name: "image5",
-            url: "images//475945346_1129264468491803_1329627044269042027_n.png",
+            url: "app/images/475945346_1129264468491803_1329627044269042027_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26413,7 +26618,7 @@ app.showSidebar();
           },
           image8: {
             name: "image8",
-            url: "images//474731882_913808690920408_2851399431684049398_n.png",
+            url: "app/images/474731882_913808690920408_2851399431684049398_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26597,7 +26802,7 @@ const view1 = {
 
           image5: {
             name: "image5",
-            url: "images//467470411_2318354041853443_1420735777515935467_n.png",
+            url: "app/images/467470411_2318354041853443_1420735777515935467_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26630,7 +26835,7 @@ app.showView('task1');
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26663,7 +26868,7 @@ app.showSidebar();
 
           image1: {
             name: "image1",
-            url: "images//474737201_1519763009006940_9111988661729388446_n.png",
+            url: "app/images/474737201_1519763009006940_9111988661729388446_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26685,7 +26890,7 @@ app.showSidebar();
 
           image6: {
             name: "image6",
-            url: "images//474609101_1004635704854241_3183330216806937101_n.png",
+            url: "app/images/474609101_1004635704854241_3183330216806937101_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26864,7 +27069,7 @@ const taskbot53 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26886,7 +27091,7 @@ const taskbot53 = {
 
           image4: {
             name: "image4",
-            url: "images//474083773_2000884590430944_1364545875684377963_n.png",
+            url: "app/images/474083773_2000884590430944_1364545875684377963_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26908,7 +27113,7 @@ const taskbot53 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26941,7 +27146,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26963,7 +27168,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472359031_2266156700416672_6719885261184674651_n.png",
+            url: "app/images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -26993,9 +27198,10 @@ app.showView('taskbot54');
             mouseleaveHandler() {},
             contextmenuHandler() {}
           },
+
           image5: {
             name: "image5",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27003,18 +27209,7 @@ app.showView('taskbot54');
             hidden: false,
             disabled: false,
             event: null,
-
-            loadHandler(event) {
-              let
-                view = app._getCurrentView(),
-                views = app._getLoadedViews(),
-                frames = app._getLoadedFrames(),
-                dialogs = app._getLoadedDialogs(),
-                self = views["taskbot53"].image5;
-                self.event = event;
-
-app.showView('Ansbot53');
-            },
+            loadHandler() {},
             errorHandler() {},
 
             clickHandler(event) {
@@ -27026,7 +27221,7 @@ app.showView('Ansbot53');
                 self = views["taskbot53"].image5;
                 self.event = event;
 
-app.showDialog('Ansbot31');
+app.showDialog('dialog2');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -27035,8 +27230,7 @@ app.showDialog('Ansbot31');
             mouseenterHandler() {},
             mouseleaveHandler() {},
             contextmenuHandler() {}
-          },
-
+          }
         };
       },
       activated() {
@@ -27185,7 +27379,7 @@ const taskbot54 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "images//474952621_591456130353917_6115518564765359487_n.png",
+            url: "app/images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27207,7 +27401,7 @@ const taskbot54 = {
 
           image4: {
             name: "image4",
-            url: "images//475954351_1686366151966625_6528910523760472063_n.png",
+            url: "app/images/475954351_1686366151966625_6528910523760472063_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27229,7 +27423,7 @@ const taskbot54 = {
 
           image3: {
             name: "image3",
-            url: "images//467489330_569942018985113_3187169807731815346_n.png",
+            url: "app/images/467489330_569942018985113_3187169807731815346_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27262,7 +27456,7 @@ app.showSidebar();
 
           image7: {
             name: "image7",
-            url: "images//474441588_1841705726638463_5539483835462799649_n.png",
+            url: "app/images/474441588_1841705726638463_5539483835462799649_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27284,7 +27478,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images//472205107_979771870740775_2820368697562667777_n.png",
+            url: "app/images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27317,7 +27511,7 @@ app.showView('home');
 
           image5: {
             name: "image5",
-            url: "images//474138320_513538574527358_5744788303321596870_n.png",
+            url: "app/images/474138320_513538574527358_5744788303321596870_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -27325,18 +27519,7 @@ app.showView('home');
             hidden: false,
             disabled: false,
             event: null,
-
-            loadHandler(event) {
-              let
-                view = app._getCurrentView(),
-                views = app._getLoadedViews(),
-                frames = app._getLoadedFrames(),
-                dialogs = app._getLoadedDialogs(),
-                self = views["taskbot54"].image5;
-                self.event = event;
-
-app.showView('Ansbot54');
-            },
+            loadHandler() {},
             errorHandler() {},
 
             clickHandler(event) {
@@ -27348,7 +27531,7 @@ app.showView('Ansbot54');
                 self = views["taskbot54"].image5;
                 self.event = event;
 
-app.showDialog('Ansbot31');
+app.showDialog('dialog3');
             },
             dblclickHandler() {},
             mouseupHandler() {},
@@ -27357,7 +27540,8 @@ app.showDialog('Ansbot31');
             mouseenterHandler() {},
             mouseleaveHandler() {},
             contextmenuHandler() {}
-          }
+          },
+
         };
       },
       activated() {
@@ -27488,14 +27672,13 @@ app.showDialog('Ansbot31');
 <!-- (Unregistered DecSoft App Builder - https://www.decsoftutils.com/) -->`
   };
 
-
 const DabApp = {
 
   components: {
     "dab-alert": DabAlert,
     "dab-toast": DabToast,
     start,home,collaboration,coaching1,coaching2,problem1,problem2,problem3,problem4,problem5,learning1,learning2,learning3,learning4,learning5,compre1,compre2,compre3,compre4,compre5,scaf1,scaf2,scaf3,scaf4,scaf5,task1,task2,task3,task4,task5,taskbot11,taskbot12,taskbot21,taskbot22,taskbot23,taskbot24,taskQ1,taskQ2,taskQ3,taskQ4,taskQ5,taskbot31,taskbot32,taskbot33,taskbot34,taskbot41,taskbot42,taskbot43,taskbot44,taskbot51,taskbot52,Login,mission1,mission2,mission3,mission4,mission5,view1,taskbot53,taskbot54,
-    dialogscafproce,dialogscafstretegic,dialogscafmeta,dialogconcep1,dialogconcep2,dialogconcep3,dialogconcep4,dialogconcep5,dialoghandout1,dialoghandout2,dialoghandout3,dialoghandout4,dialoghandout5,dialogtask1,dialogtask2,dialogtask3,dialogtask4,Ansbot11,Ansbot12,dialogtask5,dialog1,Ansbot21,Ansbot22,Ansbot23,Ansbot24,Ansbot31,Ansbot32,Ansbot33,Ansbot34,Ansbot41,Ansbot42,Ansbot43,Ansbot44,Ansbot51,Ansbot52,Ansbot53,Ansbot54,dialog2,dialog3
+    dialogscafproce,dialogscafstretegic,dialogscafmeta,dialogconcep1,dialogconcep2,dialogconcep3,dialogconcep4,dialogconcep5,dialoghandout1,dialoghandout2,dialoghandout3,dialoghandout4,dialoghandout5,dialogtask1,dialogtask2,dialogtask3,dialogtask4,Ansbot11,Ansbot12,dialogtask5,dialog1,Ansbot21,Ansbot22,Ansbot23,Ansbot24,Ansbot31,Ansbot32,Ansbot33,Ansbot34,Ansbot41,Ansbot42,Ansbot43,Ansbot44,Ansbot51,Ansbot52,Ansbot53,Ansbot54,dialog2,dialog3,dialog4
   },
 
   created() {

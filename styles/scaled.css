@@ -738,6 +738,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot53 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
 
 #taskbot53 #image2 { position: absolute; top: 1.67%; left: 82.50%; width: 10.00%; height: 5.00%; }
+
 #taskbot53 #image5 { position: absolute; top: 85.00%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot54 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
@@ -888,3 +889,8 @@ html, body { width: 320px; height: 480px; }
 
 #dialog2 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #dialog2 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
+
+#dialog3 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
+#dialog3 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
+
+#dialog4 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 102.50%; height: 100.00%; }

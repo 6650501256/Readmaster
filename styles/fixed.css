@@ -740,6 +740,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot53 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
 
 #taskbot53 #image2 { position: absolute; top: 8px; left: 264px; width: 32px; height: 24px; }
+
 #taskbot53 #image5 { position: absolute; top: 408px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot54 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
@@ -890,3 +891,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #dialog2 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #dialog2 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
+
+#dialog3 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
+#dialog3 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
+
+#dialog4 #iframe1 { position: absolute; top: 0px; left: 0px; width: 328px; height: 480px; }
