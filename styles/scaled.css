@@ -64,8 +64,7 @@ html, body { width: 320px; height: 480px; }
 
 #problem1 #image5 { position: absolute; top: 58.33%; left: 30.00%; width: 40.00%; height: 10.00%; }
 
-#problem1 #image1 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
-
+#problem1 #image1 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 6.67%; }
 #problem1 #html2 { position: absolute; top: 15.00%; left: 0.00%; width: 100.00%; height: 38.33%; }
 
 #problem1 #imgpush12 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -81,6 +80,7 @@ html, body { width: 320px; height: 480px; }
 #problem1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #problem1 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #problem1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #problem1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -101,8 +101,7 @@ html, body { width: 320px; height: 480px; }
 
 #problem2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#problem2 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
-
+#problem2 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 37.50%; height: 5.00%; }
 #problem2 #html2 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 41.67%; }
 
 #problem2 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -120,6 +119,7 @@ html, body { width: 320px; height: 480px; }
 #problem2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #problem2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #problem2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #problem2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -136,14 +136,11 @@ html, body { width: 320px; height: 480px; }
 
 #problem3 #image4 { position: absolute; top: 48.33%; left: 2.50%; width: 92.50%; height: 41.67%; }
 
-#problem3 #html1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 30.00%; }
-
 #problem3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#problem3 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
+#problem3 #image7 { position: absolute; top: 1.67%; left: 27.50%; width: 45.00%; height: 6.67%; }
 
-#problem3 #html2 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 41.67%; }
-
+#problem3 #html2 { position: absolute; top: 11.67%; left: 0.00%; width: 100.00%; height: 41.67%; }
 #problem3 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #problem3 #image5 { position: absolute; top: 58.33%; left: 30.00%; width: 40.00%; height: 10.00%; }
@@ -161,6 +158,7 @@ html, body { width: 320px; height: 480px; }
 #problem3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #problem3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #problem3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #problem3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -177,11 +175,11 @@ html, body { width: 320px; height: 480px; }
 
 #problem4 #image4 { position: absolute; top: 46.67%; left: 2.50%; width: 92.50%; height: 41.67%; }
 
-#problem4 #image7 { position: absolute; top: 1.67%; left: 32.50%; width: 37.50%; height: 6.67%; }
+#problem4 #image7 { position: absolute; top: 1.67%; left: 22.50%; width: 55.00%; height: 8.33%; }
 
 #problem4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#problem4 #html2 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 41.67%; }
+#problem4 #html2 { position: absolute; top: 13.33%; left: 0.00%; width: 100.00%; height: 41.67%; }
 
 #problem4 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -198,6 +196,7 @@ html, body { width: 320px; height: 480px; }
 #problem4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #problem4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #problem4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #problem4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -216,13 +215,10 @@ html, body { width: 320px; height: 480px; }
 
 #problem5 #image4 { position: absolute; top: 43.33%; left: 0.00%; width: 100.00%; height: 48.33%; }
 
-#problem5 #image7 { position: absolute; top: 3.33%; left: 40.00%; width: 22.50%; height: 3.33%; }
-
-#problem5 #image1 { position: absolute; top: 3.33%; left: 40.00%; width: 22.50%; height: 3.33%; }
-
+#problem5 #image1 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
 #problem5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#problem5 #html2 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 41.67%; }
+#problem5 #html2 { position: absolute; top: 13.33%; left: 0.00%; width: 100.00%; height: 41.67%; }
 
 #problem5 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -239,6 +235,7 @@ html, body { width: 320px; height: 480px; }
 #problem5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #problem5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #problem5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #problem5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -263,7 +260,6 @@ html, body { width: 320px; height: 480px; }
 
 #learning1 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
 
-#learning1 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 #learning1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning1 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -281,6 +277,7 @@ html, body { width: 320px; height: 480px; }
 #learning1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #learning1 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #learning1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #learning1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -293,6 +290,8 @@ html, body { width: 320px; height: 480px; }
 
 #learning1 #image11 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
+#learning1 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
+
 #learning2 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning2 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
@@ -303,7 +302,7 @@ html, body { width: 320px; height: 480px; }
 
 #learning2 #html1 { position: absolute; top: 81.67%; left: 0.00%; width: 100.00%; height: 23.33%; }
 
-#learning2 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
+#learning2 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 #learning2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning2 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
@@ -323,6 +322,7 @@ html, body { width: 320px; height: 480px; }
 #learning2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #learning2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #learning2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #learning2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -343,7 +343,6 @@ html, body { width: 320px; height: 480px; }
 
 #learning3 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#learning3 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 #learning3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning3 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
@@ -363,6 +362,7 @@ html, body { width: 320px; height: 480px; }
 #learning3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #learning3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #learning3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #learning3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -375,6 +375,8 @@ html, body { width: 320px; height: 480px; }
 
 #learning3 #image9 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
+#learning3 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
+
 #learning4 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning4 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
@@ -385,7 +387,6 @@ html, body { width: 320px; height: 480px; }
 
 #learning4 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#learning4 #image7 { position: absolute; top: 1.67%; left: 32.50%; width: 37.50%; height: 6.67%; }
 #learning4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning4 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
@@ -405,6 +406,7 @@ html, body { width: 320px; height: 480px; }
 #learning4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #learning4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #learning4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #learning4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -417,6 +419,8 @@ html, body { width: 320px; height: 480px; }
 
 #learning4 #image9 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
+#learning4 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
+
 #learning5 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #learning5 #image2 { position: absolute; top: 45.00%; left: 17.50%; width: 65.00%; height: 8.33%; }
@@ -427,7 +431,6 @@ html, body { width: 320px; height: 480px; }
 
 #learning5 #image5 { position: absolute; top: 71.67%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#learning5 #image7 { position: absolute; top: 3.33%; left: 40.00%; width: 22.50%; height: 3.33%; }
 #learning5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #learning5 #image6 { position: absolute; top: 11.67%; left: 25.00%; width: 50.00%; height: 30.00%; }
@@ -447,6 +450,7 @@ html, body { width: 320px; height: 480px; }
 #learning5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #learning5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #learning5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #learning5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -459,8 +463,9 @@ html, body { width: 320px; height: 480px; }
 
 #learning5 #image9 { position: absolute; top: 58.33%; left: 17.50%; width: 65.00%; height: 8.33%; }
 
-#compre1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
+#learning5 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 5.00%; }
 
+#compre1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 #compre1 #image2 { position: absolute; top: 26.67%; left: 32.50%; width: 32.50%; height: 8.33%; }
 
 #compre1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -480,6 +485,7 @@ html, body { width: 320px; height: 480px; }
 #compre1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #compre1 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #compre1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #compre1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -491,7 +497,6 @@ html, body { width: 320px; height: 480px; }
 #compre1 #imgpush10 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
 #compre2 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
-
 #compre2 #image2 { position: absolute; top: 28.33%; left: 35.00%; width: 32.50%; height: 8.33%; }
 
 #compre2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -511,6 +516,7 @@ html, body { width: 320px; height: 480px; }
 #compre2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #compre2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #compre2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #compre2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -522,7 +528,6 @@ html, body { width: 320px; height: 480px; }
 #compre2 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
 #compre3 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
-
 #compre3 #image2 { position: absolute; top: 80.00%; left: 35.00%; width: 32.50%; height: 8.33%; }
 
 #compre3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -542,6 +547,7 @@ html, body { width: 320px; height: 480px; }
 #compre3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #compre3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #compre3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #compre3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -553,7 +559,6 @@ html, body { width: 320px; height: 480px; }
 #compre3 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
 #compre4 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
-
 #compre4 #image2 { position: absolute; top: 80.00%; left: 35.00%; width: 32.50%; height: 8.33%; }
 
 #compre4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -573,6 +578,7 @@ html, body { width: 320px; height: 480px; }
 #compre4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #compre4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #compre4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #compre4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -584,7 +590,6 @@ html, body { width: 320px; height: 480px; }
 #compre4 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
 #compre5 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
-
 #compre5 #image2 { position: absolute; top: 80.00%; left: 35.00%; width: 32.50%; height: 8.33%; }
 
 #compre5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -604,6 +609,7 @@ html, body { width: 320px; height: 480px; }
 #compre5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #compre5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #compre5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #compre5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -617,8 +623,6 @@ html, body { width: 320px; height: 480px; }
 #scaf1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #scaf1 #image2 { position: absolute; top: 11.67%; left: 12.50%; width: 33.44%; height: 20.00%; }
-
-#scaf1 #image4 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #scaf1 #image5 { position: absolute; top: 55.00%; left: 12.50%; width: 75.00%; height: 36.67%; }
 
@@ -645,6 +649,7 @@ html, body { width: 320px; height: 480px; }
 #scaf1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #scaf1 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #scaf1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #scaf1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -654,6 +659,8 @@ html, body { width: 320px; height: 480px; }
 #scaf1 #imgpush9 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #scaf1 #imgpush10 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#scaf1 #image4 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #scaf2 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
@@ -671,8 +678,6 @@ html, body { width: 320px; height: 480px; }
 
 #scaf2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#scaf2 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
-
 #scaf2 #image11 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #scaf2 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -688,6 +693,7 @@ html, body { width: 320px; height: 480px; }
 #scaf2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #scaf2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #scaf2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #scaf2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -697,6 +703,8 @@ html, body { width: 320px; height: 480px; }
 #scaf2 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #scaf2 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#scaf2 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #scaf3 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
@@ -709,14 +717,11 @@ html, body { width: 320px; height: 480px; }
 #scaf3 #image6 { position: absolute; top: 33.33%; left: 52.50%; width: 33.44%; height: 20.00%; }
 
 #scaf3 #image7 { position: absolute; top: 11.67%; left: 52.50%; width: 33.44%; height: 20.00%; }
-
 #scaf3 #image8 { position: absolute; top: 33.33%; left: 12.50%; width: 33.44%; height: 20.00%; }
 
 #scaf3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #scaf3 #image9 { position: absolute; top: 55.00%; left: 12.50%; width: 75.00%; height: 36.67%; }
-
-#scaf3 #image10 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 
 #scaf3 #image12 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -733,6 +738,7 @@ html, body { width: 320px; height: 480px; }
 #scaf3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #scaf3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #scaf3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #scaf3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -742,6 +748,8 @@ html, body { width: 320px; height: 480px; }
 #scaf3 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #scaf3 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#scaf3 #image10 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #scaf4 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
@@ -761,8 +769,6 @@ html, body { width: 320px; height: 480px; }
 
 #scaf4 #image9 { position: absolute; top: 55.00%; left: 12.50%; width: 75.00%; height: 36.67%; }
 
-#scaf4 #image10 { position: absolute; top: 1.67%; left: 32.50%; width: 37.50%; height: 6.67%; }
-
 #scaf4 #image12 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #scaf4 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -778,6 +784,7 @@ html, body { width: 320px; height: 480px; }
 #scaf4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #scaf4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #scaf4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #scaf4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -787,6 +794,8 @@ html, body { width: 320px; height: 480px; }
 #scaf4 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #scaf4 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#scaf4 #image10 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #scaf5 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
@@ -806,8 +815,6 @@ html, body { width: 320px; height: 480px; }
 
 #scaf5 #image9 { position: absolute; top: 55.00%; left: 12.50%; width: 75.00%; height: 36.67%; }
 
-#scaf5 #image10 { position: absolute; top: 3.33%; left: 37.50%; width: 22.50%; height: 3.33%; }
-
 #scaf5 #image12 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #scaf5 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -823,6 +830,7 @@ html, body { width: 320px; height: 480px; }
 #scaf5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #scaf5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #scaf5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #scaf5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -832,6 +840,8 @@ html, body { width: 320px; height: 480px; }
 #scaf5 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #scaf5 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#scaf5 #image10 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 3.33%; }
 
 #task11 #image5 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
@@ -863,6 +873,7 @@ html, body { width: 320px; height: 480px; }
 #task11 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #task11 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #task11 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #task11 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -877,12 +888,13 @@ html, body { width: 320px; height: 480px; }
 
 #task11 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task11 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 32.50%; height: 3.33%; }
+#task11 #image6 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 6.67%; }
 
 #task21 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
 #task21 #input3 {font-weight: bolder;}
 
 #task21 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
 #task21 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task21 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -921,9 +933,10 @@ html, body { width: 320px; height: 480px; }
 
 #task21 #image9 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task21 #image6 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
+#task21 #image6 { position: absolute; top: 3.33%; left: 30.00%; width: 40.00%; height: 6.67%; }
 
 #task31 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 6.67%; }
+
 #task31 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task31 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -962,12 +975,13 @@ html, body { width: 320px; height: 480px; }
 
 #task31 #image9 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task31 #image6 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
+#task31 #image6 { position: absolute; top: 3.33%; left: 27.50%; width: 47.50%; height: 6.67%; }
 
 #task41 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
 #task41 #input3 {font-weight: bolder;}
 
 #task41 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
 #task41 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task41 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -1006,12 +1020,13 @@ html, body { width: 320px; height: 480px; }
 
 #task41 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task41 #image9 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
+#task41 #image9 { position: absolute; top: 3.33%; left: 27.50%; width: 47.50%; height: 6.67%; }
 
 #task51 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
 #task51 #input3 {font-weight: bolder;}
 
 #task51 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
 #task51 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task51 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -1050,7 +1065,7 @@ html, body { width: 320px; height: 480px; }
 
 #task51 #image9 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task51 #image4 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
+#task51 #image4 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 6.67%; }
 
 #taskbot11 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
@@ -1062,8 +1077,7 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot11 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
-#taskbot11 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 32.50%; height: 3.33%; }
-
+#taskbot11 #image7 { position: absolute; top: 1.67%; left: 30.00%; width: 42.50%; height: 6.67%; }
 #taskbot11 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot11 #imgpush12 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1079,6 +1093,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot11 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot11 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot11 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot11 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1090,14 +1105,11 @@ html, body { width: 320px; height: 480px; }
 #taskbot11 #imgpush10 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
 #taskbot12 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
-
 #taskbot12 #image4 { position: absolute; top: 16.67%; left: 2.50%; width: 95.00%; height: 48.33%; }
 
 #taskbot12 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #taskbot12 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
-
-#taskbot12 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 32.50%; height: 3.33%; }
 
 #taskbot12 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1114,6 +1126,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot12 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot12 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot12 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot12 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1124,9 +1137,10 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot12 #imgpush10 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
-#taskbot12 #image5 { position: absolute; top: 8.33%; left: 87.50%; width: 10.00%; height: 1.67%; }
-
+#taskbot12 #image5 { position: absolute; top: 0.00%; left: 82.50%; width: 17.50%; height: 3.33%; }
 #taskbot12 #image9 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
+
+#taskbot12 #image7 { position: absolute; top: 1.67%; left: 30.00%; width: 42.50%; height: 6.67%; }
 
 #taskbot21 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
@@ -1136,8 +1150,7 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot21 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot21 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
-
+#taskbot21 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 5.00%; }
 #taskbot21 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot21 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -1155,6 +1168,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot21 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot21 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot21 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot21 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1175,8 +1189,6 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot22 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot22 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
-
 #taskbot22 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot22 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1192,6 +1204,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot22 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot22 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot22 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot22 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1202,6 +1215,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot22 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot22 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 5.00%; }
+
 #taskbot23 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot23 #image4 { position: absolute; top: 11.67%; left: 7.50%; width: 85.00%; height: 53.33%; }
@@ -1211,8 +1226,6 @@ html, body { width: 320px; height: 480px; }
 #taskbot23 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot23 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
-
-#taskbot23 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
 
 #taskbot23 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1229,6 +1242,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot23 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot23 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot23 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot23 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1239,13 +1253,13 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot23 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot23 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 5.00%; }
+
 #taskbot24 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot24 #image4 { position: absolute; top: 15.00%; left: 7.50%; width: 85.00%; height: 56.67%; }
 
 #taskbot24 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#taskbot24 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
 
 #taskbot24 #image6 { position: absolute; top: 78.33%; left: 77.50%; width: 20.00%; height: 10.00%; }
 
@@ -1264,6 +1278,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot24 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot24 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot24 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot24 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1276,7 +1291,9 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot24 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot24 #image5 { position: absolute; top: 8.33%; left: 87.50%; width: 10.00%; height: 1.67%; }
+#taskbot24 #image5 { position: absolute; top: 0.00%; left: 82.50%; width: 17.50%; height: 3.33%; }
+
+#taskbot24 #image7 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 5.00%; }
 
 #taskbot31 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
@@ -1286,8 +1303,7 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot31 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot31 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#taskbot31 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #taskbot31 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot31 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -1305,6 +1321,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot31 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot31 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot31 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot31 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1325,8 +1342,6 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot32 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot32 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
 #taskbot32 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot32 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1342,6 +1357,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot32 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot32 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot32 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot32 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1352,6 +1368,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot32 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot32 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
+
 #taskbot33 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot33 #image4 { position: absolute; top: 15.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
@@ -1361,8 +1379,6 @@ html, body { width: 320px; height: 480px; }
 #taskbot33 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot33 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
-
-#taskbot33 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 
 #taskbot33 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1379,6 +1395,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot33 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot33 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot33 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot33 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1389,6 +1406,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot33 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot33 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
+
 #taskbot34 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot34 #image4 { position: absolute; top: 15.00%; left: 0.00%; width: 100.00%; height: 56.67%; }
@@ -1396,8 +1415,6 @@ html, body { width: 320px; height: 480px; }
 #taskbot34 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #taskbot34 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
-
-#taskbot34 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 
 #taskbot34 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1414,6 +1431,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot34 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot34 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot34 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot34 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1426,7 +1444,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot34 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot34 #image7 { position: absolute; top: 8.33%; left: 87.50%; width: 10.00%; height: 1.67%; }
+#taskbot34 #image7 { position: absolute; top: 0.00%; left: 82.50%; width: 17.50%; height: 3.33%; }
+#taskbot34 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 
 #taskbot41 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
@@ -1438,8 +1457,7 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot41 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot41 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#taskbot41 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #taskbot41 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot41 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1455,6 +1473,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot41 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot41 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot41 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot41 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1475,8 +1494,6 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot42 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot42 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
 #taskbot42 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot42 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1492,6 +1509,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot42 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot42 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot42 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot42 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1502,6 +1520,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot42 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot42 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
+
 #taskbot43 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot43 #image4 { position: absolute; top: 15.00%; left: 7.50%; width: 85.00%; height: 46.67%; }
@@ -1511,8 +1531,6 @@ html, body { width: 320px; height: 480px; }
 #taskbot43 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #taskbot43 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
-
-#taskbot43 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 
 #taskbot43 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1529,6 +1547,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot43 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot43 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot43 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot43 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1539,6 +1558,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot43 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot43 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
+
 #taskbot44 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot44 #image4 { position: absolute; top: 15.00%; left: 7.50%; width: 85.00%; height: 43.33%; }
@@ -1546,8 +1567,6 @@ html, body { width: 320px; height: 480px; }
 #taskbot44 #image6 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
 #taskbot44 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#taskbot44 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
 
 #taskbot44 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
@@ -1564,6 +1583,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot44 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot44 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot44 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot44 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1576,7 +1596,8 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot44 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot44 #image7 { position: absolute; top: 8.33%; left: 87.50%; width: 10.00%; height: 1.67%; }
+#taskbot44 #image7 { position: absolute; top: 0.00%; left: 82.50%; width: 17.50%; height: 3.33%; }
+#taskbot44 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 
 #taskbot51 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
@@ -1588,8 +1609,7 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot51 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#taskbot51 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
-
+#taskbot51 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
 #taskbot51 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot51 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
@@ -1605,6 +1625,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot51 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot51 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot51 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot51 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1623,8 +1644,6 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot52 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#taskbot52 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
-
 #taskbot52 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #taskbot52 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -1642,6 +1661,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot52 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot52 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot52 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot52 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1652,13 +1672,13 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot52 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot52 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
+
 #taskbot53 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot53 #image4 { position: absolute; top: 18.33%; left: 5.00%; width: 90.00%; height: 51.67%; }
 
 #taskbot53 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#taskbot53 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
 
 #taskbot53 #image2 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
@@ -1679,6 +1699,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot53 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot53 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot53 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot53 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1689,13 +1710,13 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot53 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot53 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
+
 #taskbot54 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
 #taskbot54 #image4 { position: absolute; top: 18.33%; left: 5.00%; width: 90.00%; height: 51.67%; }
 
 #taskbot54 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#taskbot54 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
 
 #taskbot54 #image5 { position: absolute; top: 78.33%; left: 75.00%; width: 20.00%; height: 10.00%; }
 
@@ -1714,6 +1735,7 @@ html, body { width: 320px; height: 480px; }
 #taskbot54 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #taskbot54 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #taskbot54 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #taskbot54 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1724,13 +1746,15 @@ html, body { width: 320px; height: 480px; }
 
 #taskbot54 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#taskbot54 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
+
 #mission1 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 81.67%; }
 
 #mission1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #mission1 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#mission1 #image7 { position: absolute; top: 3.33%; left: 35.00%; width: 32.50%; height: 3.33%; }
+#mission1 #image7 { position: absolute; top: 1.67%; left: 30.00%; width: 42.50%; height: 6.67%; }
 #mission1 #image5 { position: absolute; top: 63.33%; left: 20.00%; width: 60.00%; height: 28.33%; }
 
 #mission1 #image6 { position: absolute; top: 13.33%; left: 27.50%; width: 42.50%; height: 10.00%; }
@@ -1767,8 +1791,7 @@ html, body { width: 320px; height: 480px; }
 
 #mission2 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#mission2 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
-
+#mission2 #image7 { position: absolute; top: 3.33%; left: 27.50%; width: 42.50%; height: 5.00%; }
 #mission2 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 81.67%; }
 
 #mission2 #image6 { position: absolute; top: 13.33%; left: 27.50%; width: 42.50%; height: 10.00%; }
@@ -1792,6 +1815,7 @@ html, body { width: 320px; height: 480px; }
 #mission2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #mission2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #mission2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #mission2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1810,8 +1834,7 @@ html, body { width: 320px; height: 480px; }
 
 #mission3 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
-#mission3 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#mission3 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #mission3 #image2 { position: absolute; top: 26.67%; left: 2.50%; width: 95.00%; height: 38.33%; }
 
 #mission3 #image7 { position: absolute; top: 60.00%; left: 17.50%; width: 62.50%; height: 31.67%; }
@@ -1831,6 +1854,7 @@ html, body { width: 320px; height: 480px; }
 #mission3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #mission3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #mission3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #mission3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1845,8 +1869,7 @@ html, body { width: 320px; height: 480px; }
 
 #mission4 #image6 { position: absolute; top: 13.33%; left: 27.50%; width: 42.50%; height: 10.00%; }
 
-#mission4 #image5 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#mission4 #image5 { position: absolute; top: 1.67%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #mission4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #mission4 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
@@ -1870,6 +1893,7 @@ html, body { width: 320px; height: 480px; }
 #mission4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #mission4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #mission4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #mission4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1888,8 +1912,7 @@ html, body { width: 320px; height: 480px; }
 
 #mission5 #image4 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#mission5 #image7 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
-
+#mission5 #image7 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 5.00%; }
 #mission5 #image5 { position: absolute; top: 26.67%; left: 0.00%; width: 100.00%; height: 38.33%; }
 
 #mission5 #image8 { position: absolute; top: 65.00%; left: 15.00%; width: 70.00%; height: 26.67%; }
@@ -1909,6 +1932,7 @@ html, body { width: 320px; height: 480px; }
 #mission5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #mission5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #mission5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #mission5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1923,7 +1947,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
-#coaching1 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
+#coaching1 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 27.50%; height: 3.33%; }
 
 #coaching1 #image2 { position: absolute; top: 65.00%; left: 27.50%; width: 57.50%; height: 5.00%; }
 
@@ -1931,19 +1955,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching1 #image5 { position: absolute; top: 81.67%; left: 27.50%; width: 60.00%; height: 5.00%; }
 
-#coaching1 #image7 { position: absolute; top: 65.00%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching1 #image10 { position: absolute; top: 73.33%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching1 #image11 { position: absolute; top: 81.67%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
 #coaching1 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
-
-#coaching1 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching1 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching1 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching1 #imgpush12 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -1958,6 +1970,7 @@ html, body { width: 320px; height: 480px; }
 #coaching1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #coaching1 #imgpush10 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #coaching1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #coaching1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -1968,11 +1981,14 @@ html, body { width: 320px; height: 480px; }
 
 #coaching1 #imgpush17 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#coaching1 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching1 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching1 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
 #coaching2 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching2 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#coaching2 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #coaching2 #image2 { position: absolute; top: 65.00%; left: 27.50%; width: 57.50%; height: 5.00%; }
 
@@ -1980,19 +1996,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching2 #image5 { position: absolute; top: 81.67%; left: 27.50%; width: 60.00%; height: 5.00%; }
 
-#coaching2 #image7 { position: absolute; top: 65.00%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching2 #image10 { position: absolute; top: 73.33%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching2 #image11 { position: absolute; top: 81.67%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
 #coaching2 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
-
-#coaching2 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching2 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching2 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching2 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -2007,6 +2011,7 @@ html, body { width: 320px; height: 480px; }
 #coaching2 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #coaching2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #coaching2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #coaching2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2017,11 +2022,16 @@ html, body { width: 320px; height: 480px; }
 
 #coaching2 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#coaching2 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 27.50%; height: 3.33%; }
+
+#coaching2 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching2 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching2 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
 #coaching3 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching3 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#coaching3 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #coaching3 #image2 { position: absolute; top: 65.00%; left: 27.50%; width: 57.50%; height: 5.00%; }
 
@@ -2029,19 +2039,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching3 #image5 { position: absolute; top: 81.67%; left: 27.50%; width: 60.00%; height: 5.00%; }
 
-#coaching3 #image7 { position: absolute; top: 65.00%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching3 #image10 { position: absolute; top: 73.33%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching3 #image11 { position: absolute; top: 81.67%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
 #coaching3 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
-
-#coaching3 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching3 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching3 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching3 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -2056,6 +2054,7 @@ html, body { width: 320px; height: 480px; }
 #coaching3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #coaching3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #coaching3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #coaching3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2066,11 +2065,16 @@ html, body { width: 320px; height: 480px; }
 
 #coaching3 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#coaching3 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 27.50%; height: 3.33%; }
+
+#coaching3 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching3 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching3 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
 #coaching4 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#coaching4 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #coaching4 #image2 { position: absolute; top: 65.00%; left: 27.50%; width: 57.50%; height: 5.00%; }
 
@@ -2078,19 +2082,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching4 #image5 { position: absolute; top: 81.67%; left: 27.50%; width: 60.00%; height: 5.00%; }
 
-#coaching4 #image7 { position: absolute; top: 65.00%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching4 #image10 { position: absolute; top: 73.33%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching4 #image11 { position: absolute; top: 81.67%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
 #coaching4 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
-
-#coaching4 #imgpush2 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching4 #imgpush3 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching4 #imgpush4 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching4 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -2105,6 +2097,7 @@ html, body { width: 320px; height: 480px; }
 #coaching4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #coaching4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #coaching4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #coaching4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2115,11 +2108,16 @@ html, body { width: 320px; height: 480px; }
 
 #coaching4 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#coaching4 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 27.50%; height: 3.33%; }
+
+#coaching4 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching4 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching4 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
 #coaching5 #image1 { position: absolute; top: 10.00%; left: 0.00%; width: 100.00%; height: 50.00%; }
 
 #coaching5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
-
-#coaching5 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #coaching5 #image2 { position: absolute; top: 65.00%; left: 27.50%; width: 57.50%; height: 5.00%; }
 
@@ -2127,19 +2125,7 @@ html, body { width: 320px; height: 480px; }
 
 #coaching5 #image5 { position: absolute; top: 81.67%; left: 27.50%; width: 60.00%; height: 5.00%; }
 
-#coaching5 #image7 { position: absolute; top: 65.00%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching5 #image10 { position: absolute; top: 73.33%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
-#coaching5 #image11 { position: absolute; top: 81.67%; left: 17.50%; width: 7.50%; height: 5.00%; }
-
 #coaching5 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
-
-#coaching5 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching5 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
-
-#coaching5 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
 
 #coaching5 #imgpush25 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -2154,6 +2140,7 @@ html, body { width: 320px; height: 480px; }
 #coaching5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #coaching5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #coaching5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #coaching5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2164,6 +2151,13 @@ html, body { width: 320px; height: 480px; }
 
 #coaching5 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#coaching5 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 27.50%; height: 3.33%; }
+
+#coaching5 #imgpush1 { position: absolute; top: 63.33%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching5 #imgpush3 { position: absolute; top: 80.00%; left: 12.50%; width: 12.19%; height: 7.08%; }
+
+#coaching5 #imgpush2 { position: absolute; top: 71.67%; left: 12.50%; width: 12.19%; height: 7.08%; }
 #collaboration1 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #collaboration1 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2174,8 +2168,7 @@ html, body { width: 320px; height: 480px; }
 
 #collaboration1 #image5 { position: absolute; top: 78.33%; left: 15.00%; width: 67.50%; height: 16.67%; }
 
-#collaboration1 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
-
+#collaboration1 #image6 { position: absolute; top: 1.67%; left: 22.50%; width: 52.50%; height: 6.67%; }
 #collaboration1 #image7 { position: absolute; top: 8.33%; left: 17.50%; width: 70.00%; height: 46.67%; }
 
 #collaboration1 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -2193,6 +2186,7 @@ html, body { width: 320px; height: 480px; }
 #collaboration1 #imgpush11 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #collaboration1 #imgpush3 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #collaboration1 #imgpush4 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #collaboration1 #imgpush5 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2251,8 +2245,6 @@ html, body { width: 320px; height: 480px; }
 
 #collaboration2 #image4 { position: absolute; top: 65.00%; left: 15.00%; width: 67.50%; height: 18.33%; }
 
-#collaboration2 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
-
 #collaboration2 #image7 { position: absolute; top: 8.33%; left: 17.50%; width: 70.00%; height: 46.67%; }
 
 #collaboration2 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -2260,11 +2252,14 @@ html, body { width: 320px; height: 480px; }
 #collaboration2 #image5 { position: absolute; top: 78.33%; left: 15.00%; width: 67.50%; height: 16.67%; }
 
 #collaboration2 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #collaboration2 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #collaboration2 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
 
 #collaboration2 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
+
+#collaboration2 #image6 { position: absolute; top: 1.67%; left: 22.50%; width: 52.50%; height: 6.67%; }
 
 #collaboration3 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
@@ -2275,8 +2270,6 @@ html, body { width: 320px; height: 480px; }
 #collaboration3 #image4 { position: absolute; top: 65.00%; left: 15.00%; width: 67.50%; height: 18.33%; }
 
 #collaboration3 #image5 { position: absolute; top: 78.33%; left: 15.00%; width: 67.50%; height: 16.67%; }
-
-#collaboration3 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #collaboration3 #image7 { position: absolute; top: 8.33%; left: 17.50%; width: 70.00%; height: 46.67%; }
 
@@ -2295,6 +2288,7 @@ html, body { width: 320px; height: 480px; }
 #collaboration3 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #collaboration3 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #collaboration3 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #collaboration3 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2305,6 +2299,8 @@ html, body { width: 320px; height: 480px; }
 
 #collaboration3 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#collaboration3 #image6 { position: absolute; top: 1.67%; left: 22.50%; width: 52.50%; height: 6.67%; }
+
 #collaboration4 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #collaboration4 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2314,8 +2310,6 @@ html, body { width: 320px; height: 480px; }
 #collaboration4 #image4 { position: absolute; top: 65.00%; left: 15.00%; width: 67.50%; height: 18.33%; }
 
 #collaboration4 #image5 { position: absolute; top: 78.33%; left: 15.00%; width: 67.50%; height: 16.67%; }
-
-#collaboration4 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #collaboration4 #image7 { position: absolute; top: 8.33%; left: 17.50%; width: 70.00%; height: 46.67%; }
 
@@ -2334,6 +2328,7 @@ html, body { width: 320px; height: 480px; }
 #collaboration4 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #collaboration4 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #collaboration4 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #collaboration4 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2344,6 +2339,8 @@ html, body { width: 320px; height: 480px; }
 
 #collaboration4 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
 
+#collaboration4 #image6 { position: absolute; top: 1.67%; left: 22.50%; width: 52.50%; height: 6.67%; }
+
 #collaboration5 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 91.67%; }
 
 #collaboration5 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
@@ -2353,8 +2350,6 @@ html, body { width: 320px; height: 480px; }
 #collaboration5 #image4 { position: absolute; top: 65.00%; left: 15.00%; width: 67.50%; height: 18.33%; }
 
 #collaboration5 #image5 { position: absolute; top: 78.33%; left: 15.00%; width: 67.50%; height: 16.67%; }
-
-#collaboration5 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 30.00%; height: 1.67%; }
 
 #collaboration5 #image7 { position: absolute; top: 8.33%; left: 17.50%; width: 70.00%; height: 46.67%; }
 
@@ -2373,6 +2368,7 @@ html, body { width: 320px; height: 480px; }
 #collaboration5 #imgpush30 { position: absolute; top: 95.00%; left: 0.00%; width: 15.00%; height: 5.00%; }
 
 #collaboration5 #imgpush31 { position: absolute; top: 91.67%; left: 15.00%; width: 17.50%; height: 8.33%; }
+
 #collaboration5 #imgpush32 { position: absolute; top: 91.67%; left: 32.50%; width: 17.50%; height: 8.33%; }
 
 #collaboration5 #imgpush33 { position: absolute; top: 91.67%; left: 50.00%; width: 17.50%; height: 8.33%; }
@@ -2382,6 +2378,8 @@ html, body { width: 320px; height: 480px; }
 #collaboration5 #imgpush35 { position: absolute; top: 91.67%; left: 67.50%; width: 15.00%; height: 8.33%; }
 
 #collaboration5 #imgpush36 { position: absolute; top: 91.67%; left: 0.00%; width: 15.00%; height: 8.33%; }
+
+#collaboration5 #image6 { position: absolute; top: 1.67%; left: 22.50%; width: 52.50%; height: 6.67%; }
 
 #view1 #imgpush12 { position: absolute; top: 95.00%; left: 15.00%; width: 17.50%; height: 5.00%; }
 
@@ -2411,6 +2409,7 @@ html, body { width: 320px; height: 480px; }
 #task12 #input3 {font-weight: bolder;}
 
 #task12 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
 #task12 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task12 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -2447,8 +2446,7 @@ html, body { width: 320px; height: 480px; }
 
 #task12 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task12 #image6 { position: absolute; top: 3.33%; left: 35.00%; width: 32.50%; height: 3.33%; }
-
+#task12 #image6 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 6.67%; }
 #task12 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #task22 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
@@ -2492,8 +2490,7 @@ html, body { width: 320px; height: 480px; }
 
 #task22 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task22 #image13 { position: absolute; top: 3.33%; left: 32.50%; width: 32.50%; height: 3.33%; }
-
+#task22 #image13 { position: absolute; top: 3.33%; left: 30.00%; width: 42.50%; height: 6.67%; }
 #task22 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #task32 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
@@ -2537,14 +2534,14 @@ html, body { width: 320px; height: 480px; }
 
 #task32 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task32 #image6 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#task32 #image6 { position: absolute; top: 3.33%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #task32 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #task42 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
 #task42 #input3 {font-weight: bolder;}
 
 #task42 #image10 { position: absolute; top: 66.67%; left: 0.00%; width: 100.00%; height: 11.67%; }
+
 #task42 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task42 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -2581,14 +2578,14 @@ html, body { width: 320px; height: 480px; }
 
 #task42 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task42 #image6 { position: absolute; top: 3.33%; left: 32.50%; width: 37.50%; height: 3.33%; }
-
+#task42 #image6 { position: absolute; top: 3.33%; left: 27.50%; width: 47.50%; height: 6.67%; }
 #task42 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #task52 #input3 { position: absolute; top: 70.00%; left: 2.50%; width: 95.00%; height: 6.67%; }
 #task52 #input3 {font-weight: bolder;}
 
 #task52 #image10 { position: absolute; top: 68.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
 #task52 #image3 { position: absolute; top: 3.33%; left: 5.00%; width: 6.25%; height: 3.33%; }
 
 #task52 #image8 { position: absolute; top: 3.33%; left: 2.50%; width: 10.00%; height: 5.00%; }
@@ -2625,8 +2622,7 @@ html, body { width: 320px; height: 480px; }
 
 #task52 #image11 { position: absolute; top: 53.33%; left: 47.50%; width: 7.50%; height: 5.00%; }
 
-#task52 #image6 { position: absolute; top: 3.33%; left: 37.50%; width: 25.00%; height: 3.33%; }
-
+#task52 #image6 { position: absolute; top: 3.33%; left: 32.50%; width: 35.00%; height: 6.67%; }
 #task52 #image4 { position: absolute; top: 3.33%; left: 87.50%; width: 10.00%; height: 5.00%; }
 
 #dialogscafproce #html1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
@@ -2702,7 +2698,6 @@ html, body { width: 320px; height: 480px; }
 #Ansbot11 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #Ansbot12 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
-
 #Ansbot12 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #dialogtask5 #image1 { position: absolute; top: 3.33%; left: 40.00%; width: 22.50%; height: 3.33%; }
@@ -2712,22 +2707,23 @@ html, body { width: 320px; height: 480px; }
 #dialogtask5 #image4 { position: absolute; top: 16.67%; left: 0.00%; width: 100.00%; height: 63.33%; }
 
 #Ansbot21 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
+
 #Ansbot21 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #Ansbot21 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #Ansbot22 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
-#Ansbot22 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
+#Ansbot22 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #Ansbot22 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #Ansbot23 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
-#Ansbot23 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
+#Ansbot23 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #Ansbot23 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #Ansbot24 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
-#Ansbot24 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
+#Ansbot24 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #Ansbot24 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #Ansbot31 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
@@ -2841,8 +2837,8 @@ html, body { width: 320px; height: 480px; }
 #Anstask11 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #dialog2 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }
-#dialog2 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
+#dialog2 #iframe1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 #dialog2 #imgpush2 { position: absolute; top: 1.67%; left: 87.50%; width: 10.00%; height: 6.67%; }
 
 #dialog3 #image1 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 11.67%; }

@@ -66,8 +66,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #problem1 #image5 { position: absolute; top: 280px; left: 96px; width: 128px; height: 48px; }
 
-#problem1 #image1 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
-
+#problem1 #image1 { position: absolute; top: 16px; left: 96px; width: 128px; height: 32px; }
 #problem1 #html2 { position: absolute; top: 72px; left: 0px; width: 320px; height: 184px; }
 
 #problem1 #imgpush12 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -83,6 +82,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #problem1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #problem1 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #problem1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #problem1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -103,8 +103,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #problem2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#problem2 #image7 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
-
+#problem2 #image7 { position: absolute; top: 16px; left: 96px; width: 120px; height: 24px; }
 #problem2 #html2 { position: absolute; top: 48px; left: 0px; width: 320px; height: 200px; }
 
 #problem2 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -122,6 +121,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #problem2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #problem2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #problem2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #problem2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -138,14 +138,11 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #problem3 #image4 { position: absolute; top: 232px; left: 8px; width: 296px; height: 200px; }
 
-#problem3 #html1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 144px; }
-
 #problem3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#problem3 #image7 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
+#problem3 #image7 { position: absolute; top: 8px; left: 88px; width: 144px; height: 32px; }
 
-#problem3 #html2 { position: absolute; top: 48px; left: 0px; width: 320px; height: 200px; }
-
+#problem3 #html2 { position: absolute; top: 56px; left: 0px; width: 320px; height: 200px; }
 #problem3 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #problem3 #image5 { position: absolute; top: 280px; left: 96px; width: 128px; height: 48px; }
@@ -163,6 +160,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #problem3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #problem3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #problem3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #problem3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -179,11 +177,11 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #problem4 #image4 { position: absolute; top: 224px; left: 8px; width: 296px; height: 200px; }
 
-#problem4 #image7 { position: absolute; top: 8px; left: 104px; width: 120px; height: 32px; }
+#problem4 #image7 { position: absolute; top: 8px; left: 72px; width: 176px; height: 40px; }
 
 #problem4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#problem4 #html2 { position: absolute; top: 48px; left: 0px; width: 320px; height: 200px; }
+#problem4 #html2 { position: absolute; top: 64px; left: 0px; width: 320px; height: 200px; }
 
 #problem4 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -200,6 +198,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #problem4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #problem4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #problem4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #problem4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -218,13 +217,10 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #problem5 #image4 { position: absolute; top: 208px; left: 0px; width: 320px; height: 232px; }
 
-#problem5 #image7 { position: absolute; top: 16px; left: 128px; width: 72px; height: 16px; }
-
-#problem5 #image1 { position: absolute; top: 16px; left: 128px; width: 72px; height: 16px; }
-
+#problem5 #image1 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
 #problem5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#problem5 #html2 { position: absolute; top: 48px; left: 0px; width: 320px; height: 200px; }
+#problem5 #html2 { position: absolute; top: 64px; left: 0px; width: 320px; height: 200px; }
 
 #problem5 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -241,6 +237,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #problem5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #problem5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #problem5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #problem5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -265,7 +262,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning1 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
 
-#learning1 #image7 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 #learning1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning1 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -283,6 +279,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #learning1 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #learning1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #learning1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -295,6 +292,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning1 #image11 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
+#learning1 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
+
 #learning2 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning2 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
@@ -305,7 +304,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning2 #html1 { position: absolute; top: 392px; left: 0px; width: 320px; height: 112px; }
 
-#learning2 #image7 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
+#learning2 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 #learning2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning2 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
@@ -325,6 +324,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #learning2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #learning2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #learning2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -345,7 +345,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning3 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
-#learning3 #image7 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 #learning3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning3 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
@@ -365,6 +364,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #learning3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #learning3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #learning3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -377,6 +377,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning3 #image9 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
+#learning3 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
+
 #learning4 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning4 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
@@ -387,7 +389,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning4 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
-#learning4 #image7 { position: absolute; top: 8px; left: 104px; width: 120px; height: 32px; }
 #learning4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning4 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
@@ -407,6 +408,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #learning4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #learning4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #learning4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -419,6 +421,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning4 #image9 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
+#learning4 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
+
 #learning5 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #learning5 #image2 { position: absolute; top: 216px; left: 56px; width: 208px; height: 40px; }
@@ -429,7 +433,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning5 #image5 { position: absolute; top: 344px; left: 56px; width: 208px; height: 40px; }
 
-#learning5 #image7 { position: absolute; top: 16px; left: 128px; width: 72px; height: 16px; }
 #learning5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #learning5 #image6 { position: absolute; top: 56px; left: 80px; width: 160px; height: 144px; }
@@ -449,6 +452,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #learning5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #learning5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #learning5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #learning5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -461,8 +465,9 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #learning5 #image9 { position: absolute; top: 280px; left: 56px; width: 208px; height: 40px; }
 
-#compre1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
+#learning5 #image7 { position: absolute; top: 16px; left: 96px; width: 128px; height: 24px; }
 
+#compre1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 #compre1 #image2 { position: absolute; top: 128px; left: 104px; width: 104px; height: 40px; }
 
 #compre1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -482,6 +487,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #compre1 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #compre1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #compre1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -493,7 +499,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre1 #imgpush10 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
 #compre2 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
-
 #compre2 #image2 { position: absolute; top: 136px; left: 112px; width: 104px; height: 40px; }
 
 #compre2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -513,6 +518,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #compre2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #compre2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #compre2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -524,7 +530,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre2 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
 #compre3 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
-
 #compre3 #image2 { position: absolute; top: 384px; left: 112px; width: 104px; height: 40px; }
 
 #compre3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -544,6 +549,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #compre3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #compre3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #compre3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -555,7 +561,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre3 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
 #compre4 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
-
 #compre4 #image2 { position: absolute; top: 384px; left: 112px; width: 104px; height: 40px; }
 
 #compre4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -575,6 +580,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #compre4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #compre4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #compre4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -586,7 +592,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre4 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
 #compre5 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
-
 #compre5 #image2 { position: absolute; top: 384px; left: 112px; width: 104px; height: 40px; }
 
 #compre5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -606,6 +611,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #compre5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #compre5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #compre5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #compre5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -619,8 +625,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #scaf1 #image2 { position: absolute; top: 56px; left: 40px; width: 107px; height: 96px; }
-
-#scaf1 #image4 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #scaf1 #image5 { position: absolute; top: 264px; left: 40px; width: 240px; height: 176px; }
 
@@ -647,6 +651,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #scaf1 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #scaf1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #scaf1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -656,6 +661,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf1 #imgpush9 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #scaf1 #imgpush10 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#scaf1 #image4 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #scaf2 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
@@ -673,8 +680,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #scaf2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#scaf2 #image7 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
-
 #scaf2 #image11 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #scaf2 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -690,6 +695,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #scaf2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #scaf2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #scaf2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -699,6 +705,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf2 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #scaf2 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#scaf2 #image7 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #scaf3 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
@@ -711,14 +719,11 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf3 #image6 { position: absolute; top: 160px; left: 168px; width: 107px; height: 96px; }
 
 #scaf3 #image7 { position: absolute; top: 56px; left: 168px; width: 107px; height: 96px; }
-
 #scaf3 #image8 { position: absolute; top: 160px; left: 40px; width: 107px; height: 96px; }
 
 #scaf3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #scaf3 #image9 { position: absolute; top: 264px; left: 40px; width: 240px; height: 176px; }
-
-#scaf3 #image10 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 
 #scaf3 #image12 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -735,6 +740,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #scaf3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #scaf3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #scaf3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -744,6 +750,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf3 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #scaf3 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#scaf3 #image10 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #scaf4 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
@@ -763,8 +771,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #scaf4 #image9 { position: absolute; top: 264px; left: 40px; width: 240px; height: 176px; }
 
-#scaf4 #image10 { position: absolute; top: 8px; left: 104px; width: 120px; height: 32px; }
-
 #scaf4 #image12 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #scaf4 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -780,6 +786,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #scaf4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #scaf4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #scaf4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -789,6 +796,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf4 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #scaf4 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#scaf4 #image10 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #scaf5 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
@@ -808,8 +817,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #scaf5 #image9 { position: absolute; top: 264px; left: 40px; width: 240px; height: 176px; }
 
-#scaf5 #image10 { position: absolute; top: 16px; left: 120px; width: 72px; height: 16px; }
-
 #scaf5 #image12 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #scaf5 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -825,6 +832,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #scaf5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #scaf5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #scaf5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -834,6 +842,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #scaf5 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #scaf5 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#scaf5 #image10 { position: absolute; top: 16px; left: 112px; width: 96px; height: 16px; }
 
 #task11 #image5 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
@@ -865,6 +875,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #task11 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #task11 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #task11 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #task11 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -879,12 +890,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task11 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task11 #image6 { position: absolute; top: 16px; left: 112px; width: 104px; height: 16px; }
+#task11 #image6 { position: absolute; top: 16px; left: 96px; width: 136px; height: 32px; }
 
 #task21 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
 #task21 #input3 {font-weight: bolder;}
 
 #task21 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 40px; }
+
 #task21 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task21 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -923,9 +935,10 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task21 #image9 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task21 #image6 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
+#task21 #image6 { position: absolute; top: 16px; left: 96px; width: 128px; height: 32px; }
 
 #task31 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 32px; }
+
 #task31 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task31 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -964,12 +977,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task31 #image9 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task31 #image6 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
+#task31 #image6 { position: absolute; top: 16px; left: 88px; width: 152px; height: 32px; }
 
 #task41 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
 #task41 #input3 {font-weight: bolder;}
 
 #task41 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 40px; }
+
 #task41 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task41 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -1008,12 +1022,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task41 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task41 #image9 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
+#task41 #image9 { position: absolute; top: 16px; left: 88px; width: 152px; height: 32px; }
 
 #task51 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
 #task51 #input3 {font-weight: bolder;}
 
 #task51 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 40px; }
+
 #task51 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task51 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -1052,7 +1067,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task51 #image9 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task51 #image4 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
+#task51 #image4 { position: absolute; top: 16px; left: 104px; width: 112px; height: 32px; }
 
 #taskbot11 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
@@ -1064,8 +1079,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot11 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
-#taskbot11 #image7 { position: absolute; top: 16px; left: 112px; width: 104px; height: 16px; }
-
+#taskbot11 #image7 { position: absolute; top: 8px; left: 96px; width: 136px; height: 32px; }
 #taskbot11 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot11 #imgpush12 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1081,6 +1095,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot11 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot11 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot11 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot11 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1092,14 +1107,11 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot11 #imgpush10 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
 #taskbot12 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
-
 #taskbot12 #image4 { position: absolute; top: 80px; left: 8px; width: 304px; height: 232px; }
 
 #taskbot12 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #taskbot12 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
-
-#taskbot12 #image7 { position: absolute; top: 16px; left: 112px; width: 104px; height: 16px; }
 
 #taskbot12 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1116,6 +1128,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot12 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot12 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot12 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot12 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1126,9 +1139,10 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot12 #imgpush10 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
-#taskbot12 #image5 { position: absolute; top: 40px; left: 280px; width: 32px; height: 8px; }
-
+#taskbot12 #image5 { position: absolute; top: 0px; left: 264px; width: 56px; height: 16px; }
 #taskbot12 #image9 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
+
+#taskbot12 #image7 { position: absolute; top: 8px; left: 96px; width: 136px; height: 32px; }
 
 #taskbot21 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
@@ -1138,8 +1152,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot21 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot21 #image7 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
-
+#taskbot21 #image7 { position: absolute; top: 16px; left: 96px; width: 136px; height: 24px; }
 #taskbot21 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot21 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -1157,6 +1170,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot21 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot21 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot21 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot21 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1177,8 +1191,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot22 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot22 #image7 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
-
 #taskbot22 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot22 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1194,6 +1206,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot22 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot22 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot22 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot22 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1204,6 +1217,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot22 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot22 #image7 { position: absolute; top: 16px; left: 96px; width: 136px; height: 24px; }
+
 #taskbot23 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot23 #image4 { position: absolute; top: 56px; left: 24px; width: 272px; height: 256px; }
@@ -1213,8 +1228,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot23 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot23 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
-
-#taskbot23 #image7 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
 
 #taskbot23 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1231,6 +1244,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot23 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot23 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot23 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot23 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1241,13 +1255,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot23 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot23 #image7 { position: absolute; top: 16px; left: 96px; width: 136px; height: 24px; }
+
 #taskbot24 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot24 #image4 { position: absolute; top: 72px; left: 24px; width: 272px; height: 272px; }
 
 #taskbot24 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#taskbot24 #image7 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
 
 #taskbot24 #image6 { position: absolute; top: 376px; left: 248px; width: 64px; height: 48px; }
 
@@ -1266,6 +1280,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot24 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot24 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot24 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot24 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1278,7 +1293,9 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot24 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot24 #image5 { position: absolute; top: 40px; left: 280px; width: 32px; height: 8px; }
+#taskbot24 #image5 { position: absolute; top: 0px; left: 264px; width: 56px; height: 16px; }
+
+#taskbot24 #image7 { position: absolute; top: 16px; left: 96px; width: 136px; height: 24px; }
 
 #taskbot31 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
@@ -1288,8 +1305,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot31 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot31 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#taskbot31 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 #taskbot31 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot31 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -1307,6 +1323,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot31 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot31 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot31 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot31 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1327,8 +1344,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot32 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot32 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
 #taskbot32 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot32 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1344,6 +1359,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot32 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot32 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot32 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot32 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1354,6 +1370,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot32 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot32 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
+
 #taskbot33 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot33 #image4 { position: absolute; top: 72px; left: 0px; width: 320px; height: 240px; }
@@ -1363,8 +1381,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot33 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot33 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
-
-#taskbot33 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 
 #taskbot33 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1381,6 +1397,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot33 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot33 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot33 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot33 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1391,6 +1408,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot33 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot33 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
+
 #taskbot34 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot34 #image4 { position: absolute; top: 72px; left: 0px; width: 320px; height: 272px; }
@@ -1398,8 +1417,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot34 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #taskbot34 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
-
-#taskbot34 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 
 #taskbot34 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1416,6 +1433,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot34 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot34 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot34 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot34 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1428,7 +1446,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot34 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot34 #image7 { position: absolute; top: 40px; left: 280px; width: 32px; height: 8px; }
+#taskbot34 #image7 { position: absolute; top: 0px; left: 264px; width: 56px; height: 16px; }
+#taskbot34 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 
 #taskbot41 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
@@ -1440,8 +1459,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot41 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot41 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#taskbot41 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 #taskbot41 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot41 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1457,6 +1475,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot41 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot41 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot41 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot41 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1477,8 +1496,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot42 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot42 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
 #taskbot42 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot42 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1494,6 +1511,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot42 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot42 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot42 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot42 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1504,6 +1522,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot42 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot42 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
+
 #taskbot43 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot43 #image4 { position: absolute; top: 72px; left: 24px; width: 272px; height: 224px; }
@@ -1513,8 +1533,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot43 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #taskbot43 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
-
-#taskbot43 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 
 #taskbot43 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1531,6 +1549,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot43 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot43 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot43 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot43 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1541,6 +1560,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot43 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot43 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
+
 #taskbot44 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot44 #image4 { position: absolute; top: 72px; left: 24px; width: 272px; height: 208px; }
@@ -1548,8 +1569,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot44 #image6 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
 #taskbot44 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#taskbot44 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
 
 #taskbot44 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
@@ -1566,6 +1585,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot44 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot44 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot44 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot44 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1578,7 +1598,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot44 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot44 #image7 { position: absolute; top: 40px; left: 280px; width: 32px; height: 8px; }
+#taskbot44 #image7 { position: absolute; top: 0px; left: 264px; width: 56px; height: 16px; }
+#taskbot44 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 
 #taskbot51 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
@@ -1590,8 +1611,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot51 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#taskbot51 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
-
+#taskbot51 #image7 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
 #taskbot51 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
 
 #taskbot51 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
@@ -1607,6 +1627,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot51 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot51 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot51 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot51 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1625,8 +1646,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot52 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#taskbot52 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
-
 #taskbot52 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #taskbot52 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -1644,6 +1663,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot52 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot52 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot52 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot52 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1654,13 +1674,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot52 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot52 #image7 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
+
 #taskbot53 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot53 #image4 { position: absolute; top: 88px; left: 16px; width: 288px; height: 248px; }
 
 #taskbot53 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#taskbot53 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
 
 #taskbot53 #image2 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
@@ -1681,6 +1701,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot53 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot53 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot53 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot53 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1691,13 +1712,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot53 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot53 #image7 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
+
 #taskbot54 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
 #taskbot54 #image4 { position: absolute; top: 88px; left: 16px; width: 288px; height: 248px; }
 
 #taskbot54 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#taskbot54 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
 
 #taskbot54 #image5 { position: absolute; top: 376px; left: 240px; width: 64px; height: 48px; }
 
@@ -1716,6 +1737,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #taskbot54 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #taskbot54 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #taskbot54 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #taskbot54 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1726,13 +1748,15 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #taskbot54 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#taskbot54 #image7 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
+
 #mission1 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 392px; }
 
 #mission1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #mission1 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#mission1 #image7 { position: absolute; top: 16px; left: 112px; width: 104px; height: 16px; }
+#mission1 #image7 { position: absolute; top: 8px; left: 96px; width: 136px; height: 32px; }
 #mission1 #image5 { position: absolute; top: 304px; left: 64px; width: 192px; height: 136px; }
 
 #mission1 #image6 { position: absolute; top: 64px; left: 88px; width: 136px; height: 48px; }
@@ -1769,8 +1793,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #mission2 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#mission2 #image7 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
-
+#mission2 #image7 { position: absolute; top: 16px; left: 88px; width: 136px; height: 24px; }
 #mission2 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 392px; }
 
 #mission2 #image6 { position: absolute; top: 64px; left: 88px; width: 136px; height: 48px; }
@@ -1794,6 +1817,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #mission2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #mission2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #mission2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #mission2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1812,8 +1836,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #mission3 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
-#mission3 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#mission3 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 #mission3 #image2 { position: absolute; top: 128px; left: 8px; width: 304px; height: 184px; }
 
 #mission3 #image7 { position: absolute; top: 288px; left: 56px; width: 200px; height: 152px; }
@@ -1833,6 +1856,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #mission3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #mission3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #mission3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #mission3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1847,8 +1871,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #mission4 #image6 { position: absolute; top: 64px; left: 88px; width: 136px; height: 48px; }
 
-#mission4 #image5 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#mission4 #image5 { position: absolute; top: 8px; left: 88px; width: 152px; height: 32px; }
 #mission4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #mission4 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
@@ -1872,6 +1895,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #mission4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #mission4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #mission4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #mission4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1890,8 +1914,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #mission5 #image4 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#mission5 #image7 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
-
+#mission5 #image7 { position: absolute; top: 16px; left: 104px; width: 112px; height: 24px; }
 #mission5 #image5 { position: absolute; top: 128px; left: 0px; width: 320px; height: 184px; }
 
 #mission5 #image8 { position: absolute; top: 312px; left: 48px; width: 224px; height: 128px; }
@@ -1911,6 +1934,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #mission5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #mission5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #mission5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #mission5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1925,7 +1949,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
-#coaching1 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
+#coaching1 #image6 { position: absolute; top: 16px; left: 120px; width: 88px; height: 16px; }
 
 #coaching1 #image2 { position: absolute; top: 312px; left: 88px; width: 184px; height: 24px; }
 
@@ -1933,19 +1957,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching1 #image5 { position: absolute; top: 392px; left: 88px; width: 192px; height: 24px; }
 
-#coaching1 #image7 { position: absolute; top: 312px; left: 56px; width: 24px; height: 24px; }
-
-#coaching1 #image10 { position: absolute; top: 352px; left: 56px; width: 24px; height: 24px; }
-
-#coaching1 #image11 { position: absolute; top: 392px; left: 56px; width: 24px; height: 24px; }
-
 #coaching1 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
-
-#coaching1 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
-
-#coaching1 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
-
-#coaching1 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching1 #imgpush12 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -1960,6 +1972,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #coaching1 #imgpush10 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #coaching1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #coaching1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -1970,11 +1983,14 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching1 #imgpush17 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#coaching1 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
+
+#coaching1 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
+
+#coaching1 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
 #coaching2 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching2 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#coaching2 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #coaching2 #image2 { position: absolute; top: 312px; left: 88px; width: 184px; height: 24px; }
 
@@ -1982,19 +1998,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching2 #image5 { position: absolute; top: 392px; left: 88px; width: 192px; height: 24px; }
 
-#coaching2 #image7 { position: absolute; top: 312px; left: 56px; width: 24px; height: 24px; }
-
-#coaching2 #image10 { position: absolute; top: 352px; left: 56px; width: 24px; height: 24px; }
-
-#coaching2 #image11 { position: absolute; top: 392px; left: 56px; width: 24px; height: 24px; }
-
 #coaching2 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
-
-#coaching2 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
-
-#coaching2 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
-
-#coaching2 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching2 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -2009,6 +2013,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching2 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #coaching2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #coaching2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #coaching2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2019,11 +2024,16 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching2 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#coaching2 #image6 { position: absolute; top: 16px; left: 120px; width: 88px; height: 16px; }
+
+#coaching2 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
+
+#coaching2 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
+
+#coaching2 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
 #coaching3 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching3 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#coaching3 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #coaching3 #image2 { position: absolute; top: 312px; left: 88px; width: 184px; height: 24px; }
 
@@ -2031,19 +2041,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching3 #image5 { position: absolute; top: 392px; left: 88px; width: 192px; height: 24px; }
 
-#coaching3 #image7 { position: absolute; top: 312px; left: 56px; width: 24px; height: 24px; }
-
-#coaching3 #image10 { position: absolute; top: 352px; left: 56px; width: 24px; height: 24px; }
-
-#coaching3 #image11 { position: absolute; top: 392px; left: 56px; width: 24px; height: 24px; }
-
 #coaching3 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
-
-#coaching3 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
-
-#coaching3 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
-
-#coaching3 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching3 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -2058,6 +2056,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #coaching3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #coaching3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #coaching3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2068,11 +2067,16 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching3 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#coaching3 #image6 { position: absolute; top: 16px; left: 120px; width: 88px; height: 16px; }
+
+#coaching3 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
+
+#coaching3 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
+
+#coaching3 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
 #coaching4 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#coaching4 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #coaching4 #image2 { position: absolute; top: 312px; left: 88px; width: 184px; height: 24px; }
 
@@ -2080,19 +2084,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching4 #image5 { position: absolute; top: 392px; left: 88px; width: 192px; height: 24px; }
 
-#coaching4 #image7 { position: absolute; top: 312px; left: 56px; width: 24px; height: 24px; }
-
-#coaching4 #image10 { position: absolute; top: 352px; left: 56px; width: 24px; height: 24px; }
-
-#coaching4 #image11 { position: absolute; top: 392px; left: 56px; width: 24px; height: 24px; }
-
 #coaching4 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
-
-#coaching4 #imgpush2 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
-
-#coaching4 #imgpush3 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
-
-#coaching4 #imgpush4 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching4 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -2107,6 +2099,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #coaching4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #coaching4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #coaching4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2117,11 +2110,16 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching4 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#coaching4 #image6 { position: absolute; top: 16px; left: 120px; width: 88px; height: 16px; }
+
+#coaching4 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
+
+#coaching4 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
+
+#coaching4 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
 #coaching5 #image1 { position: absolute; top: 48px; left: 0px; width: 320px; height: 240px; }
 
 #coaching5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
-
-#coaching5 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #coaching5 #image2 { position: absolute; top: 312px; left: 88px; width: 184px; height: 24px; }
 
@@ -2129,19 +2127,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching5 #image5 { position: absolute; top: 392px; left: 88px; width: 192px; height: 24px; }
 
-#coaching5 #image7 { position: absolute; top: 312px; left: 56px; width: 24px; height: 24px; }
-
-#coaching5 #image10 { position: absolute; top: 352px; left: 56px; width: 24px; height: 24px; }
-
-#coaching5 #image11 { position: absolute; top: 392px; left: 56px; width: 24px; height: 24px; }
-
 #coaching5 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
-
-#coaching5 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
-
-#coaching5 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
-
-#coaching5 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
 
 #coaching5 #imgpush25 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -2156,6 +2142,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #coaching5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #coaching5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #coaching5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #coaching5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2166,6 +2153,13 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #coaching5 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#coaching5 #image6 { position: absolute; top: 16px; left: 120px; width: 88px; height: 16px; }
+
+#coaching5 #imgpush1 { position: absolute; top: 304px; left: 40px; width: 39px; height: 34px; }
+
+#coaching5 #imgpush3 { position: absolute; top: 384px; left: 40px; width: 39px; height: 34px; }
+
+#coaching5 #imgpush2 { position: absolute; top: 344px; left: 40px; width: 39px; height: 34px; }
 #collaboration1 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #collaboration1 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2176,8 +2170,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #collaboration1 #image5 { position: absolute; top: 376px; left: 48px; width: 216px; height: 80px; }
 
-#collaboration1 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
-
+#collaboration1 #image6 { position: absolute; top: 8px; left: 72px; width: 168px; height: 32px; }
 #collaboration1 #image7 { position: absolute; top: 40px; left: 56px; width: 224px; height: 224px; }
 
 #collaboration1 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -2195,6 +2188,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration1 #imgpush11 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #collaboration1 #imgpush3 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #collaboration1 #imgpush4 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #collaboration1 #imgpush5 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2253,8 +2247,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #collaboration2 #image4 { position: absolute; top: 312px; left: 48px; width: 216px; height: 88px; }
 
-#collaboration2 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
-
 #collaboration2 #image7 { position: absolute; top: 40px; left: 56px; width: 224px; height: 224px; }
 
 #collaboration2 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -2262,11 +2254,14 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration2 #image5 { position: absolute; top: 376px; left: 48px; width: 216px; height: 80px; }
 
 #collaboration2 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #collaboration2 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #collaboration2 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
 
 #collaboration2 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
+
+#collaboration2 #image6 { position: absolute; top: 8px; left: 72px; width: 168px; height: 32px; }
 
 #collaboration3 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
@@ -2277,8 +2272,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration3 #image4 { position: absolute; top: 312px; left: 48px; width: 216px; height: 88px; }
 
 #collaboration3 #image5 { position: absolute; top: 376px; left: 48px; width: 216px; height: 80px; }
-
-#collaboration3 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #collaboration3 #image7 { position: absolute; top: 40px; left: 56px; width: 224px; height: 224px; }
 
@@ -2297,6 +2290,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration3 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #collaboration3 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #collaboration3 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #collaboration3 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2307,6 +2301,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #collaboration3 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#collaboration3 #image6 { position: absolute; top: 8px; left: 72px; width: 168px; height: 32px; }
+
 #collaboration4 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #collaboration4 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2316,8 +2312,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration4 #image4 { position: absolute; top: 312px; left: 48px; width: 216px; height: 88px; }
 
 #collaboration4 #image5 { position: absolute; top: 376px; left: 48px; width: 216px; height: 80px; }
-
-#collaboration4 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #collaboration4 #image7 { position: absolute; top: 40px; left: 56px; width: 224px; height: 224px; }
 
@@ -2336,6 +2330,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration4 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #collaboration4 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #collaboration4 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #collaboration4 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2346,6 +2341,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #collaboration4 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
 
+#collaboration4 #image6 { position: absolute; top: 8px; left: 72px; width: 168px; height: 32px; }
+
 #collaboration5 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 440px; }
 
 #collaboration5 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
@@ -2355,8 +2352,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration5 #image4 { position: absolute; top: 312px; left: 48px; width: 216px; height: 88px; }
 
 #collaboration5 #image5 { position: absolute; top: 376px; left: 48px; width: 216px; height: 80px; }
-
-#collaboration5 #image6 { position: absolute; top: 16px; left: 112px; width: 96px; height: 8px; }
 
 #collaboration5 #image7 { position: absolute; top: 40px; left: 56px; width: 224px; height: 224px; }
 
@@ -2375,6 +2370,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration5 #imgpush30 { position: absolute; top: 456px; left: 0px; width: 48px; height: 24px; }
 
 #collaboration5 #imgpush31 { position: absolute; top: 440px; left: 48px; width: 56px; height: 40px; }
+
 #collaboration5 #imgpush32 { position: absolute; top: 440px; left: 104px; width: 56px; height: 40px; }
 
 #collaboration5 #imgpush33 { position: absolute; top: 440px; left: 160px; width: 56px; height: 40px; }
@@ -2384,6 +2380,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #collaboration5 #imgpush35 { position: absolute; top: 440px; left: 216px; width: 48px; height: 40px; }
 
 #collaboration5 #imgpush36 { position: absolute; top: 440px; left: 0px; width: 48px; height: 40px; }
+
+#collaboration5 #image6 { position: absolute; top: 8px; left: 72px; width: 168px; height: 32px; }
 
 #view1 #imgpush12 { position: absolute; top: 456px; left: 48px; width: 56px; height: 24px; }
 
@@ -2413,6 +2411,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 #task12 #input3 {font-weight: bolder;}
 
 #task12 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 40px; }
+
 #task12 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task12 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -2449,8 +2448,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task12 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task12 #image6 { position: absolute; top: 16px; left: 112px; width: 104px; height: 16px; }
-
+#task12 #image6 { position: absolute; top: 16px; left: 96px; width: 136px; height: 32px; }
 #task12 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #task22 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
@@ -2494,8 +2492,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task22 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task22 #image13 { position: absolute; top: 16px; left: 104px; width: 104px; height: 16px; }
-
+#task22 #image13 { position: absolute; top: 16px; left: 96px; width: 136px; height: 32px; }
 #task22 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #task32 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
@@ -2539,14 +2536,14 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task32 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task32 #image6 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#task32 #image6 { position: absolute; top: 16px; left: 88px; width: 152px; height: 32px; }
 #task32 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #task42 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
 #task42 #input3 {font-weight: bolder;}
 
 #task42 #image10 { position: absolute; top: 320px; left: 0px; width: 320px; height: 56px; }
+
 #task42 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task42 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -2583,14 +2580,14 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task42 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task42 #image6 { position: absolute; top: 16px; left: 104px; width: 120px; height: 16px; }
-
+#task42 #image6 { position: absolute; top: 16px; left: 88px; width: 152px; height: 32px; }
 #task42 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #task52 #input3 { position: absolute; top: 336px; left: 8px; width: 304px; height: 32px; }
 #task52 #input3 {font-weight: bolder;}
 
 #task52 #image10 { position: absolute; top: 328px; left: 8px; width: 304px; height: 40px; }
+
 #task52 #image3 { position: absolute; top: 16px; left: 16px; width: 20px; height: 16px; }
 
 #task52 #image8 { position: absolute; top: 16px; left: 8px; width: 32px; height: 24px; }
@@ -2627,8 +2624,7 @@ html, body, .app-view { width: 320px; height: 480px; }
 
 #task52 #image11 { position: absolute; top: 256px; left: 152px; width: 24px; height: 24px; }
 
-#task52 #image6 { position: absolute; top: 16px; left: 120px; width: 80px; height: 16px; }
-
+#task52 #image6 { position: absolute; top: 16px; left: 104px; width: 112px; height: 32px; }
 #task52 #image4 { position: absolute; top: 16px; left: 280px; width: 32px; height: 24px; }
 
 #dialogscafproce #html1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
@@ -2704,7 +2700,6 @@ html, body, .app-view { width: 320px; height: 480px; }
 #Ansbot11 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #Ansbot12 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
-
 #Ansbot12 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #dialogtask5 #image1 { position: absolute; top: 16px; left: 128px; width: 72px; height: 16px; }
@@ -2714,22 +2709,23 @@ html, body, .app-view { width: 320px; height: 480px; }
 #dialogtask5 #image4 { position: absolute; top: 80px; left: 0px; width: 320px; height: 304px; }
 
 #Ansbot21 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
+
 #Ansbot21 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #Ansbot21 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #Ansbot22 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
-#Ansbot22 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
+#Ansbot22 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #Ansbot22 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #Ansbot23 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
-#Ansbot23 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
+#Ansbot23 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #Ansbot23 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #Ansbot24 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
-#Ansbot24 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
+#Ansbot24 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #Ansbot24 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #Ansbot31 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
@@ -2843,8 +2839,8 @@ html, body, .app-view { width: 320px; height: 480px; }
 #Anstask11 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #dialog2 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
-#dialog2 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 
+#dialog2 #iframe1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
 #dialog2 #imgpush2 { position: absolute; top: 8px; left: 280px; width: 32px; height: 32px; }
 
 #dialog3 #image1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 56px; }
